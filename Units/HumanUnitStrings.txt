@@ -1,0 +1,2495 @@
+[hblm]
+name=The light guard 
+propernames= El Takla , El Takla , El Takla , El Takla , El Takla , El Takla, , , the Coombe Road of Los
+hotkey=
+tip= light guard
+ubertip= control light and magic of the great masters of the Guard, 1 used to be highly esteemed scholar. But in the mage war, he had betrayed and sold his alliance and was consequently sentenced exiled to the spirit world, complete perdition back. When the redoubt mission aware of his power, offering him a survival in a body, but as the exchange, he must change his position and join the redoubt mission to counteract the impact of natural disasters corps. Of the body responsible for granting companions to unlimited energy support and the betrayal before are now almost no one remembers it. 16 - Power |r |n|n|cff0042ff + 1.8|n|cff0042ff agile |r -15+ 1.6|n|cffff0303 intellectual |r -22+ 2.8|n|n can learn Kai-ming, the legal profession, the Accra |cffff8000 magic and soul |r patterns. An attacker distance 600 |n|n (remote) |n movement speed 315
+revivetip= resurrection of the janitor
+awakentip= resurrection of the janitor
+[halt]
+name=altar
+hotkey=a
+tip=build |cffffcc00a|rltar of kings of kings
+ubertip=summons heroes. revives slain heroes.
+[hamg]
+name=tree guardian spirits
+propernames= rouff Terrence
+hotkey=
+tip= tree spirit
+during combustion ubertip= guard corps of the invasion, the tree boutique advocate also only small seedlings and now he has become experienced untold reminiscent of the tree of wise men. After millennia of growth, and now he is ventured to contribute his mission. With the great Forest, Trees and forests in the guardian can be applied to hide his allies, he can make the vines armor given its own full protection, he can use bricks around his opponent, and then waved his heavy tree trunks to get your opponent over the edge. 25 - Power |r |n|n|cffff0303 + 3.3|n|cff0042ff agile |r -15+ 2.0|n|cff0042ff intellectual |r -17+ 1.8|n|n can learn the nature of cover, parasitic seeds, live in armor and frenzied growth |r |cffff8000. An attacker distance 150 |n|n (short range) |n movement speed 300
+revivetip= resurrection tree boutique defenders
+awakentip= resurrection tree boutique defenders
+[harm]
+name=workshop
+hotkey=w
+tip=build |cffffcc00w|rorkshop
+ubertip="produces siege engines and mortar teams. flying machines, |nalso flare, contains the fragmentation shards, barrage, bombs, flying machine and flak cannons upgrades."
+[hars]
+name=secret methods of the sanctuary
+hotkey=r
+tip=build a|cffffcc00r|rcane sanctum
+ubertip="trains priests, sorceresses, and spell breakers. |nalso contains spell upgrades for priests and sorceresses, control magic and magic sentry."
+[hbar]
+name=barracks
+hotkey=b
+tip=build |cffffcc00b|rarracks
+ubertip="primary troop building. trains footmen, riflemen production and knights. |nalso defend, contains the long rifles, and animal war training upgrades."
+[hbla]
+name=blacksmith
+hotkey=s
+tip=build black|cffffcc00s|rmith
+ubertip="contains upgrades for improved armor, weaponry and gunpowder."
+[hcas]
+name=castle
+hotkey=u
+tip=|cffffcc00u|rpgrade
+ubertip=upgrade to castle to castle to enable the production of additional types of structures and units.
+[hdhw]
+name=dragonhawk rider
+Hotkey=d
+tip=train |cffffcc00d|rragonhawk rider
+ubertip="swift flying unit mounted by an elven warrior. has the aerial shackles ability, which allows it to immobilize and disarm enemy air units temporarily. can learn animal war training and the cloud ability. |n|n|cffffcc00attacks land and air units.|r"
+[hhou]
+name=farm
+hotkey=f
+tip=build |cffffcc00f|rarm
+ubertip="provides food, which increases the maximum number of units that can be trained."
+[hfoo]
+name=footman
+hotkey=f
+tip=train |cffffcc00f|rootman
+ubertip=versatile soldier. foot can learn the defend ability. |n|n|cffffcc00attacks land units.|r
+[hgra]
+name=gryphon aviary
+hotkey=g
+tip=build |cffffcc00g|rryphon aviary
+ubertip="trains gryphon added riders, and dragonhawk riders. |nalso contains the storm hammers and cloud upgrades."
+[hctw]
+name=cannon
+hotkey=c
+tip=upgrade tower to |cffffcc00c|rannon tower
+ubertip=heavy defensive structure. particularly effective against clusters of troops. can learn the magic sentry ability. |N|n|cffffcc00attacks land units and trees.|r
+[hgtw]
+name=guard
+hotkey=g
+tip=upgrade tower to |cffffcc00g|ruard tower
+ubertip=primary structure. defensive can learn the magic sentry ability. |n|n|cffffcc00attacks land and air units.|r
+[hwtw]
+name=scout tower
+hotkey=t
+tip=build scout |cffffcc00t|rower
+ubertip="basic observation tower. has no attack, but can be upgraded into a guard tower, an arcane tower, or a cannon tower. can learn the magic sentry ability."
+[hatw]
+name=arcane
+hotkey=n
+tip=upgrade tower to arca|cffffcc00n|re tower
+ubertip="magical defensive tower. particularly effective against enemy heroes and spellcasters. has the feedback ability, which causes its attacks to destroy mana, dealing extra damage equal to the mana destroyed. can learn the magic sentry ability. |n|n|cffffcc00attacks land and air units."
+[hvlt]
+name=arcane vault
+hotkey=v
+tip=build arcane |cffffcc00v|rault
+ubertip="creates a shop with Purchasable items.The items available depend upon what level of upgrade your town hall has town hall, keep, or castle and which buildings you have."
+[hgyr]
+name=flying machine
+hotkey=f
+tip=train |cffffcc00f|rlying
+ubertip="fast machine moving flying machine.excellent at scouting, and effective against air units. can learn the flying machine bombs and flak cannons upgrades. |ncan see invisible units. |n|n|cffffcc00attacks air units.|r"
+[hkee]
+name=keep
+hotkey=u
+tip=|cffffcc00u|rpgrade
+ubertip=upgrade to keep to keep to enable the production of additional types of structures and units.
+[hkni]
+name=knight
+hotkey=k
+tip=train |cffffcc00k|rnight
+ubertip=powerful warrior. mounted can learn war training. |n|n|cffffcc00attacks animal land units.|r
+[hlum]
+name=lumber mill
+hotkey=l
+tip=build |cffffcc00l|rumber
+ubertip=serves mill as a drop-off point for harvested lumber. |nalso contains the upgrades for lumber harvesting and Masonry.
+[hmil]
+name=militia
+[hmkg]
+name=Ogre
+propernames= magician of the clone.aggregates of
+hotkey=
+tip= ogre magician
+ubertip= Ogre is a proliferation of fighters of race, the magic of this discipline had little experience. The ogre mages is a heterogeneous, he is born with the magic of the close relationship between, no one boot rather without a teacher. He took advantage of the inherent strengths to manufacture explosive flames and the element to ruin his enemy. As a natural show, he used his deep in their hearts to stimulate the aggressive his allies of the battlefield. He barbaric but have not yet developed the magic potential is highly likely to be wild and burst out, which has greatly strengthened his magic powers. He is a strength and magic in the outstanding combat effectiveness by his people, and let the honorable his enemies are afraid. 23 - Power |r |n|n|cff0042ff + 2.2|n|cff0042ff agile |r -14+ 1.55|n|cffff0303 intellectual |r -17+ 2.4|n|n can learn the flame of blast, incendiary or bloodthirsty |cffff8000 and apply the law in multiple |r. An attacker distance 150 |n|n (short range) |n movement speed 295,, adept at offensive combat and disrupting enemy troops. can learn storm bolt, thunder clap, bash and avatar. |n|n|cffffcc00attacks land units.|r
+revivetip= resurrection ogre mages
+awakentip= resurrection ogre mages
+[hmpr]
+name=priest
+hotkey=p
+tip=train |cffffcc00p|rriest
+ubertip="supporting spellcaster. can initially cast heal, which increases the life of wounded units. can also learn dispel magic and inner fire. |n|n|cffffcc00attacks land and air units.|r"
+casterupgradename=initiate, adept, master
+casterupgradetip=- heal,- heal|n- dispel magic,- heal|n- dispel magic|n- inner fire
+[hmtm]
+name=mortar team
+hotkey=m
+tip=train |cffffcc00m|rortar team
+ubertip="long-range siege weaponry. exceptional damage versus buildings, but slow and ipfile.can learn the shards fragmentation and the flare abilities. |n|n|cffffcc00attacks land units and trees.|r"
+[hpal]
+name=paladin
+propernames=granis darkhammer,jorn redeemer,sage truthbearer,malak the the the the mighty,agamand avenger,gavinrad dire,morlune true,ballador the the bright,manadar the healer,zann The defender,arius seeker,aurrius the the the the fearless pure,karnwield seeker,buzan
+hotkey=l
+tip=summon pa|cffffcc00l|radin
+ubertip="warrior hero, exceptional at defense and augmenting nearby friendly troops. can learn the holy light, divine aura and resurrection. devotion 328310 |n|n|cffffcc00attacks land units.|r"
+revivetip=revive pa|cffffcc00l|radin
+awakentip=revive pa|cffffcc00l|radin
+[hpea]
+name=peasant
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[hrif]
+name=rifleman
+hotkey=r
+tip=train |cffffcc00r|rifleman
+ubertip="highly skilled sharpshooter, effective against air units. can gain the long interrogation center |n|n|cffffcc00attacks full land and air units.|r"
+[hsor]
+name=sorceress
+hotkey=s
+tip=train |cffffcc00s|rorceress
+ubertip="versatile spellcaster. can initially cast slow, which decreases movement and attack speed on enemy units. can also learn invisibility polymorph. |n|n|cffffcc00attacks and land and air units.|r"
+casterupgradename=initiate, Adept, master
+casterupgradetip=- slow,- slow|n- invisibility,- slow|n- invisibility|n- polymorph
+[hspt]
+name=spell breaker
+hotkey=b
+tip=train spell |cffffcc00b|rreaker
+ubertip="elven warrior trained to destroy spellcasters. initially has spell steal, which manipulates buffs to your advantage, spell immunity and feedback. can also learn control: magic. |n|n|cffffcc00attacks land units.|r"
+[hmtt]
+name=siege engine
+hotkey=e
+tip=train siege |cffffcc00e|rngine
+ubertip="heavily armored vehicle effective at destroying buildings. can be upgraded with the barrage ability. |n|n|cffffcc00attacks buildings.|r"
+[hrtt]
+name=siege engine
+hotkey=e
+tip=train siege |cffffcc00e|rngine
+ubertip="heavily armored vehicle effective at destroying buildings. Has the barrage ability, which geocoded rockets at nearby enemy air units. |n|n|cffffcc00attacks buildings.|r"
+[htow]
+name=town hall
+hotkey=h
+tip=build |cffffcc00h|rall
+ubertip="primary town, structure, used to train peasants gathered and receive 英文 can be upgraded to keep and then castle To enable the production of additional types of structures and the
+[Hwat]
+Name=weak spiritual body
+[Hwt2]
+Name=spiritual body
+[Hwt3]
+Name=giant spiritual body
+[hgry]
+name=gryphon rider
+hotkey=g
+tip=train |cffffcc00g|rryphon rider
+ubertip="powerful flying creature, mounted by a dwarven hammer-thrower. can learn animal war training and the storm hammers ability. |n|n|cffffcc00attacks land and air units.|r"
+[HC95]
+name=Quayle Sutherland and the Chamber of Secrets
+hotkey=
+tip=
+ubertip=
+[H00E]
+name=Dragon Knight
+propernames= Jacob Hong nyiszter
+hotkey=
+tip= dragon knight
+ubertip= dragon into a powerful Knight of the Red Dragon. 19 - Power |r |n|n|cffff0303 + 2.8|n|cff0042ff agile |r -19+ 2.2|n|cff0042ff intellectual |r -15+ 1.7|n|n can learn the flame, the whip, lung Serb origin and |cffff8000 |r zhenlong patterns. An attacker distance 500 |n|n (remote)
+revivetip= resurrection dragon knight
+awakentip= resurrection dragon KNIGHT
+TEMPLAR
+[H00G] dragon description=
+name= Dragon Knight
+propernames= Jacob Hong nyiszter
+hotkey=
+tip= dragon knight
+ubertip= dragon into a powerful Knight of the Blue Dragon. 19 - Power |r |n|n|cffff0303 + 2.8|n|cff0042ff agile |r -19+ 2.2|n|cff0042ff intellectual |r -15+ 1.7|n|n can learn the flame, the whip, lung Serb origin and |cffff8000 |r zhenlong patterns. An attacker distance 500 |n|n (remote)
+revivetip= resurrection dragon knight
+awakentip= resurrection dragon KNIGHT
+Description=Dragon Knight
+[H006]
+Name=horror spiritual body
+[H00F]
+Name=Dragon Knight
+Propernames=Jacques. Hongnisite
+hotkey=
+tip= dragon knight
+ubertip= dragon into a powerful knight green dragon. 19 - Power |r |n|n|cffff0303 + 2.8|n|cff0042ff agile |r -19+ 2.2|n|cff0042ff intellectual |r -15+ 1.7|n|n can learn the flame, the whip, lung Serb origin and |cffff8000 |r zhenlong patterns. An attacker distance 500 |n|n (remote)
+revivetip= resurrection dragon knight
+awakentip= resurrection dragon KNIGHT
+TEMPLAR
+[H008] dragon description=
+name= just back beast
+propernames= Rui,
+hotkey=
+tip= just back beast
+ubertip= wild boar people of other ethnic fighting among the are not interested in doing so only 1 person knowing God, if unchecked, will eventually come home 1 day God will be able to their land. In order to protect the safety of the tribe, just back the beast with the original fighting this will be able to join the redoubt mission. Every time he pulled out 1 Fung bristle or thrown out of the 1 drops of runny nose, he became even more fanatical. When he was in danger, he hard back to help him keep the injury. Just back beast perfect to demonstrate the fate of those creatures to outbreaks of strength. 22 - Power |r |n|n|cffff0303 + 2.2|n|cff0042ff agile |r -17+ 1.8|n|cff0042ff intellectual |r -14+ 2.8|n|n can learn the viscous fluid, piercing nose bursts, and bristle back |cffff8000 |r war. An attacker distance 150 |n|n (short range) |n movement speed 290
+revivetip= resurrection just back beast
+awakentip= resurrection just back beast
+[h002]
+name=tinkle of diameter
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h003]
+name=tinkle of daggers
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h005]
+name= divine arrows
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h009]
+name=dummynet
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H00C]
+name=net projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker can harvest of gold and unit. Lumber, build structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H00I]
+name= to Lakhdar Brahimi's
+propernames= m , M , wave wave m , M , Wave Wave , M , wave m m wave ,|C00FFFF00MEEPWN|R,|C00FFFF00MEEPWN|R,|C00FFFF00MEEPWN|R wave
+hotkey=
+tip= to Lakhdar Brahimi's
+ubertip= living in Black Forest, initially germani of alien the worship of the god of Lakhdar Brahimi, is a mischievous little earth spirit. He especially likes his enemies alive trapped in the cracks of the rock, and with his heavy shovels will they crucified in despair. To Lakhdar Brahimi's let the enemy and the ability to be able to separate themselves from and each divided with the original Mami. Therefore, who unfortunately provoked him, you may experience 4 times than usual. 23 - Power |r |n|n|cff0042ff + 1.6|n|cffff0303 agile |r -23+ 1.9|n|cff0042ff intellectual |r -20+ 1.6|n|n can learn to the bonds, from Aulacese, of raids and |cffff8000 sub-able to |r. An attacker distance 150 |n|n (short range) |n movement speed 305
+Revivetip=resurrection Geomancer
+Awakentip=resurrection Geomancer
+Description=Geomancer
+[H00J]
+Name=Geomancer
+propernames= m Wave , M , M , wave wave m , M , Wave Wave , m wave m wave ,|C00FFFF00MEEPWN|R,|C00FFFF00MEEPWN|R,|C00FFFF00MEEPWN|R
+hotkey=
+tip= to Lakhdar Brahimi's
+ubertip= living in the dark woods, initially germani subjection of the worship of the god of Lakhdar Brahimi, who is a mischievous little earth spirit. He especially likes his enemies alive trapped in the cracks of the rock, and with his heavy shovels will they crucified in despair. To Lakhdar Brahimi's let the enemy and the ability to be able to separate themselves from and each divided with the original Mami. Therefore, who unfortunately provoked him, you may experience 4 times than usual. 23 - Power |r |n|n|cff0042ff + 1.6|n|cffff0303 agile |r -23+ 1.9|n|cff0042ff intellectual |r -20+ 1.6|n|n can learn to the bonds, from Aulacese, of raids and |cffff8000 sub-able to |r. An attacker distance 100 |n|n (short range) |n movement speed 305
+revivetip= resurrection to Lakhdar Brahimi's
+resurrection to Lakhdar Brahimi division awakentip=
+description=to Lakhdar Brahimi's
+[H00L]
+name=shallow
+hotkey=p
+tip=train |cffffcc00p|reasant grave
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H00M]
+name=bloodrune
+propernames= m wave
+hotkey=
+tip= to Lakhdar Brahimi's
+ubertip= living in the dark woods, initially germani subjection of the worship of the god of Lakhdar Brahimi, who is a mischievous little earth spirit. He especially likes his enemies alive trapped in the cracks of the rock, and with his heavy shovels will they crucified in despair. To Lakhdar Brahimi's let the enemy and the ability to be able to separate themselves from and each divided with the original Mami. Therefore, who unfortunately provoked him, you may experience 4 times than usual. 17 - Power |r |n|n|cff0042ff + 1.3|n|cffff0303 agile |r -23+ 1.9|n|cff0042ff intellectual |r -20+ 1.6|n|n can learn to the bonds, from Aulacese, of raids and |cffff8000 sub-able to |r. An attacker distance 100 |n|n (short range) |n movement speed 300
+revivetip= resurrection to Lakhdar Brahimi's
+resurrection to Lakhdar Brahimi division awakentip=
+description=to Lakhdar Brahimi's
+[H00N]
+name= Dark Narad
+propernames= according to Bush's
+hotkey=
+tip= card Dark Narad
+ubertip= were ethnic Albanians in exile in the dark-yin is the God of the Corps Chuse properly and fraud hero. He is also the most mysterious, in addition to the Lich King different words. Any person who He was also very special to the class and flexible to fight while providing an offensive and defensive type of mana. Often even under 1 battle before you begin, you have set the situation was reversed. 22 - Power |r |n|n|cff0042ff + 2.3|n|cff0042ff agile |r -12+ 1.2|n|cffff0303 intellectual |r -25+ 2.7|n|n can learn the vacuum, the ion shell, Pentium and |cffff8000 copy wall of |r. An attacker distance 150 |n|n (short range) |n movement speed 300,, adept at offensive combat and disrupting enemy troops. can learn storm bolt, thunder clap, bash and avatar. |n|n|cffffcc00attacks land units.|r
+revivetip= resurrection dark narad
+awakentip= resurrection dark narad
+[H00O]
+wall of copy name=
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H00P]
+name=copy wall of detection
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H00Q]
+name=Gods Samurai
+propernames= Rojas card
+hotkey=
+tip= gods samurai
+ubertip= dark spear tribal trolls' for a long time been a bush valley of origin and exile, who is in the eyes of the majority of the most brutal ethnic, compared with even the battlefield is elegant. This "reputation", they were the representatives of the redoubt, that in order to be enemies of the burning of debris at the burning of their own lives and the samurai spirits. In his eyes, and Serbs as gods samurai he was God bless the martyrs, and never scared of death, reluctantly (sometimes desperate to death), only to one of the objectives of the natural disasters and to the grave. |N |n|n|cffff0303 forces |r -21+ 2.4|n|cff0042ff agile |r -15+ 1.4|n|cff0042ff intellectual |r -18+ 1.5|n|n can learn live blood-sul, convinced that the head of the spear and the blood of the Zealots |cffff8000 and sacrifice |r. An attacker distance 450 |n|n (remote) |n movement speed 300
+revivetip= resurrection gods Samurai
+Resurrection awakentip= gods samurai
+[H00R]
+name= Immortal WANG
+propernames= autopsy paved
+hotkey=
+tip= Immortal WANG
+ubertip= autopsy to see any post-mortem immortal Wang, no 1 exceptions would he was treated as an ugly and nausea 1 samples, including his entourage. The Zombies He was in the wilderness wandering and ultimately select serve Lich King because he slept with a can recognize and accept him. While he was still God corps others dislike, but his horrible capacity: including call the elusive and lethal small zombies, and the enemy in the quick dissemination of plague, its great power is both justifiable and there is always the chance to become the corps of natural disasters 1 datacenters, to make their evil expedition, reached 1 Click Killer. 22 - Power |r |n|n|cffff0303 + 2.1|n|cff0042ff agile |r -10+ 0.8|n|cff0042ff intellectual |r -27+ 2.0|n|n can learn from rot, shrinks the soul, tombs and puppet |r |cffff8000 flesh and blood. An attacker distance 150 |n|n (short range) |n movement speed 310
+post-mortem revivetip= resurrection Immortal WANG
+awakentip= resurrection Immortal WANG
+[H00W] autopsy
+name=dead body
+hotkey=p
+tip=train throws |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h007]
+name=weaving
+hotkey=
+tip=
+ubertip=
+[H00B]
+name=icearmor caster
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and
+[H00U]
+Name=Invoker
+Propernames=Kyle,Kyle,Kyle,Kyle,Kyle,Kyle,Kyle,Carl,Carl - Al Carl
+hotkey=
+tip= pray in
+ice, snow cream ubertip= core |n; mine, the essence of turmoil; |n fire, Phoenix's soul. In his kingdom |n|n was broken, people were distributed to the heat sink 4 all corners of the world, leaving only the past Kehl magnificent Empire of the only legacy. Out of the Extreme thirst for revenge he poured his soul to sell their resistance to the Aouzou, almost boundless strength. A has white blood mage mantle pray in revenge for the fighting in only able to rely on the was under his control of the elements of the Force. His fatal spell that elements 1, issued by the fury of even the sky torn to pieces. His talent, and there is no limit to the people close defense will be rewarded to pray in anger. 19 - Power |r |n|n|cff0042ff + 1.7|n|cff0042ff agile |r -20+ 1.9|n|cffff0303 intellectual |r -22+ 4.0|n|n can learn the ice, mine clearance, fire and |cffff8000 element must not |r. An attacker distance 600 |n|n (remote) |n movement speed 280
+persons
+awakentip= revivetip= resurrection pray for those who pray
+[H00X] resurrection
+Name=ah
+hotkey=f
+tip=
+ubertip=
+[H00Y]
+PRELOAD= hero
+propernames=
+hotkey=g
+tip=
+ubertip=
+revivetip=
+awakentip=
+[h010]
+name=stifling dagger projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and the
+[H011]
+Name=Boots of Speed ​​|nBoots of Speed
+hotkey=s
+tip= speed of the boots of speed
+ubertip=|cffffcc00 (|cffffcc00s|r)|nboots |r|n properties: 45 Lift Point movement speed |n|n|c00ff0303 mobile speed boost effect is not associated with any other shoes stacked |r
+[h012]
+name=Gloves |ngloves acceleration of haste 
+hotkey=g
+tip= acceleration gloves (|cffffcc00g|r)|ngloves of haste 
+ubertip=|cffffcc00 |r|n properties: + 20 attack speed |n|n|c00838b8b this dual magic glove, seemed to lighter weapons |r
+[h013]
+name=Goblin |nboots leather boots of elvenskin
+hotkey=e
+tip= goblin (|cffffcc00e|r)|nboots leather boots of elvenskin
+ubertip=|cffffcc00 |r|n properties: 6 points increase agility |n|n|cff838b8b this shoe is frequently used to show the space step |r
+[h014]
+name=Power shoes |npower treads
+hotkey=
+tip= power shoes |npower treads
+ubertip=|cffffcc00 |r|n properties: 45 points to raise the speed of the movement to raise 25 |n point attack speed increase 9 |n point to the selected attribute |n|n|cffffcc00 |r|n needs: Speed of the boots - 400|n acceleration gloves - 500|n goblin leather boots |cfffffc01 |r or mage robe |cfffffc01 |r giant power or belt - 450|N|N|C00838B8B Total Price: 1350|r|n|n|cffff0303 move speed boost effect is not associated with any other shoes stacked |r|n|n|cffff0303 equipment only |r
+[h015]
+name=aristocratic circle of nobility |ncirclet
+hotkey=c
+tip= aristocratic circle of nobility (|cffffcc00c|r)|ncirclet
+ubertip=|cffffcc00 |r|n properties: 2 increase point all properties for human princess who |n|n|c00838b8b design of elegant head ring |r
+[h016]
+name=giant power lap |nbelt of giant strength
+hotkey=b
+tip= giant power lap (|cffffcc00b|r)|nbelt of giant
+ubertip=|cffffcc00 strength properties: |r|n increase 6 Point Forces |n|n|cff838b8b children and pregnant women use |r
+[h017]
+name=joy's blade |nblade alacrity of
+hotkey=y
+tip= joy's blade (|cffffcc00y|r)|nblade
+ubertip=|cffffcc00 alacrity of properties: 10 points increase |r|n agile |n|n|cff838b8b escape with time magic sword |r
+H018]
+Name=Claws attack|nBlades of Attack
+hotkey=a
+tip= (|cffffcc00a|r)|nblades claws of attack of attack
+ubertip=|cffffcc00 |r|n properties: 9 increase mana |n|n|cff838b8b sadists, optional 1 weapons |r
+[H019]
+Name=Broadsword|nBroadsword
+Hotkey=B
+Tip=Broadsword (|cffffcc00B|r)|nBroadsword
+ubertip=|cffffcc00 |r|n properties: Increase 18 mana |n|n|cff838b8b wanted to be a competent Knight, on the buy 1 to
+[H01A]
+Name=Mail|nChainmail
+hotkey=l
+tip= lock a (|cffffcc00l|r)|nchainmail
+ubertip=|cffffcc00 |r|n properties: 5 points increase armor |n|n|c00838b8b metal chains are made from woven |r a
+[H01B]
+Name=sword|nClaymore
+hotkey=c
+tip= large sword (|cffffcc00c|r)|nclaymore
+ubertip=|cffffcc00 |r|n properties: Increase 21 points to attack |n|n|c00838b8b armor, small tomatoes, cut |r
+[H01C]
+name=demon |ndemon blade edge
+hotkey=d
+tip= demon (|cffffcc00d|r)|ndemon blade edge
+ubertip=|cffffcc00 |r|n properties: Increase 46 points to attack the decadence of corps |n|n|c00838b8b demon commanding the weapons used and is filled with the strength of the evil |r
+[H01D]
+name=takatsuno bow |neaglehorn
+hotkey=g
+tip= takatsuno bow (|cffffcc00g|r)|neaglehorn
+ubertip=|cffffcc00 |r|n properties: 25 points increase agility |n|n|cff838b8b used this lightweight bow attacks are so accurate, it would seem that it will be the same as its own target
+[H01E]
+Name=energy ball|nEnergy Booster
+hotkey=e
+tip= hasbro's ball (|cffffcc00e|r)|nenergy energy booster
+ubertip=|cffffcc00 |r|n properties: Increase 250 points Magic Cap |n|n|c00838b8benie|r
+[H01F]
+name=force of strength
+hotkey=s |ngauntlets gloves
+tip= forces of strength
+ubertip=|cffffcc00 (|cffffcc00s|r)|ngauntlets gloves properties: |r|n increase 3 Point Forces |n|n|c00838b8b knuckle -- Deluxe Edition!
+[H01G]
+Name=True Sight gem|nGem of True Sight
+hotkey=i
+tip= really depend on Gemstone (|cffffcc00i|r)|ngem of true sight
+ubertip=|cffffcc00 properties: |r|n|cff0033cc really depends on: |r|n appeared near the stealth units |n|n|cffff0303 following the death of the Fall |n not sell |r|n|n|cff99ccff shops refresh time: 1 minutes |n|n|c00838b8b |r10 block demonic stones that can give you see something out of view |r
+[H01H]
+name=iron intended |nhelm helmet of iron will
+hotkey=h
+tip= iron intended helmet (|cffffcc00h|r)|nhelm of iron
+ubertip=|cffffcc00 will increase 5 |r|n properties: point armor |n raise 3-Point / second life recovery rate of 1-bit killed 0928 |n|n|c00838b8b's legendary Samurai wear a helmet |r
+[H01I]
+name= exciting gemstone |nhyperstone
+hotkey=y
+tip= exciting gemstones (|cffffcc00y|r)|nhyperstone
+ubertip=|cffffcc00 |r|n properties: Raise 55 attack speed 1 |n|n|c00838b8b engraved with mysterious stone pattern for carriers to boost the passion |r
+[H01J]
+name=TI branches |nironwood branch
+hotkey=n
+tip= ti branches (|cffffcc00n|r)|nironwood
+ubertip=|cffffcc00 branch properties: |r|n increase 1 point all the Properties tree planting: |r( |n|cffff8000 )|n|n|cff838b8b initiative with it to ensure a good start for 1 (good game) |r
+[H01K]
+name=Kohler The daggers |nkelen's dagger
+hotkey=d
+tip= Kohler The daggers (|cffffcc00d|r)|nkelen's dagger
+ubertip=|cffffcc00 properties: |r|n|cffff8000 transient mobility: |r|n moment to move to the target location |n|n|cffff0303 from the hero's 3 seconds after the injury within the law cannot use |r|n|cff99ccff |r1200|n|cff99ccff distance: cooling time: |r14|n|n|c00838b8b legendary haizet LAS to the Mainland as the wind of the assassinator Kohler used the daggers |r
+[H01L]
+name=intellectual |nmantle cloak of intelligence
+hotkey=i
+tip= intellectual cloak (|cffffcc00i|r)|nmantle of intelligence
+ubertip=|cffffcc00 |r|n properties: 3 points increase intellectual |n|n|c00838b8b wear off like a playboy blue cloak; this season is very popular |r
+[H01M]
+name=|nmask death mask of death
+hotkey=m
+tip= (|cffffcc00m|r)|nmask death mask of death
+ubertip=|cffffcc00 |r|n properties: Increase the blood |n|n|cffff0303 15% law ball effect cannot be stacked |r|n|n|cff838b8b no more-to-be-a |r
+[H01N]
+name=messerschmidt |nmesserschmidt's plundering reaver
+hotkey=r
+tip= messerschmidt (|cffffcc00r|r)|nmesserschmidt's plundering reaver
+ubertip=|cffffcc00 |r|n properties: 25 points increase strength |n|n|cff838b8b this giant hammer to cut 1 The whole of mountains |r
+[H01O]
+name=Secretary silver hammer |nmithril
+hotkey=m
+tip= hammer silver hammer (|cffffcc00m|r)|nmithril secretary hammer
+ubertip=|cffffcc00 |r|n properties: Increase 24 points of attack by purely secretary |n|n|cff838b8b silver, hammers, it's the hammer time!
+[H01P]
+Name=mystery Staff|nMystic Staff
+hotkey=m
+tip= mysterious (|cffffcc00m|r)|nmystic staff staff
+ubertip=|cffffcc00 properties: 25 points increase |r|n intellectual |n|n|cff838b8b this root of the general staff is determined by the most priceless made of crystal |r
+[H01Q]
+name=Ogre of hammer |nogre ax
+hotkey=x
+tip= ogre of hammer (|cffffcc00x|r)|nogre ax
+ubertip=|cffffcc00 |r|n properties: 10 points increase strength |n|n|cff838b8b only take hold of it felt that they had become more robust |r
+[H01R]
+name=Wandering mage cloak |nplaneswalker's cloak
+hotkey=w
+tip= Wandering mage cloak (|cffffcc00w|r)|nplaneswalker's cloak
+ubertip=|cffffcc00 |r|n properties: Raise 15% magic |n|n|cff838b8b resistance to magic materials cloak can withstand attacks |r mana
+[H01S]
+name=board a |nplate mail
+hotkey=t
+tip= board a (|cffffcc00t|r)|nplate
+ubertip=|cffffcc00 mail attributes: 10 points increase |r|n armor |n|n|cff838b8b heavy metal plate (A) to protect your upper body, but beware of falling on the foot |r
+[H01T]
+name=oleoresin gas booster
+hotkey=p |npoint's ball
+tip= oleoresin gas booster
+ubertip=|cffffcc00 (|cffffcc00p|r)|npoint's ball |r|n properties: 200 increase life limit |n increase 150 points Magic Cap |n|n|cff838b8bmeenie|r
+[H01U]
+name= short batons |nquarterstaff
+hotkey=q
+tip= short batons (|cffffcc00q|r)|nquarterstaff
+ubertip=|cffffcc00 |r|n properties: 10 Additional mana to raise 10 |n attack speed |n|n|c00838b8b to 4 Root short batons to 1 Composition of the root login stick with which to! |R
+[H01V]
+name=medical ring |nring
+hotkey=e
+tip= of health medical (|cffffcc00e|r)|nring ring of health
+ubertip=|cffffcc00 |r|n properties: 6 Points / improve the lives of the second recovery rate in the upper body fat people |n|n|cff838b8b Chai body found emitting rings |r
+[H01W]
+name=daemon ring |nring of protection
+hotkey=r
+tip= (|cffffcc00r|r)|nring daemon ring of protection
+ubertip=|cffffcc00 |r|n properties: 3 points increase |n|n|cff838b8b armor is perhaps its size is too small, and most people who want to wear it a bit hard to
+[H01X]
+Name=Reply ring|nRing of Regeneration
+hotkey=r
+tip= reply ring (|cffffcc00r|r)|nring of regeneration
+ubertip=|cffffcc00 |r|n properties: 2 points to raise / sec life recovery rate |n|n|c00838b8b gnomes who believe this ring can bring good luck |r
+[H01Y]
+name= mage robe of the magi
+hotkey=r |nrobe
+tip= mage robe (|cffffcc00r|r)|nrobe of the magi
+ubertip=|cffffcc00 |r|n properties: 6 points increase intellectual |n|n|cff838b8b this robe will corrode the soul, but in return, an increase in the number of intellectual |r
+[H01Z]
+holy relic of the name= |nsacred
+hotkey=s relic
+tip= Holy Relics (|cffffcc00s|r)|nsacred
+ubertip=|cffffcc00 relic |r|n properties: Increase 60 points to attack the age of 1 |n|n|cff838b8b weapons. It is difficult to give an holy relic of what exactly is, there are reports that this is 1 to have unlimited energy sword. Kao! |R
+[h020]
+name= agile |nslippers shoes of 073
+hotkey=a
+tip= agile (|cffffcc00a|r)|nslippers shoes of 073
+ubertip=|cffffcc00 |r|n properties: 3 points increase agility |n|n|cff838b8b use spider leather boots, can make you feel a little sting |r
+[h021]
+name=|nsobi MASK mask
+hotkey=b artist
+tip= artist grille (|cffffcc00b|r)|nsobi
+ubertip=|cffffcc00 mask properties: |r|n increase 50% magic recovery rate |n|n|cff838b8b mage and healers were used when the scanner offering |r
+[h022] masks the
+name= magic wand |nstaff law of wizardry
+hotkey=w
+tip= magic wand (|cffffcc00w|r)|nstaff law of wizardry
+ubertip=|cffffcc00 |r|n properties: 10 points increase intellectual |n|n|c00838b8b prohibited! ! |R
+[h023]
+name=round shield |nstout shield
+hotkey=s
+tip= round shield (|cffffcc00s|r)|nstout shield
+ubertip=|cffffcc00 properties: |r|n proximity / remote hero from common attacks with the probability of 16/8 50% withstand damage |n|n|c00838b8b this small shield was originally a person's Keg |r achievers in the
+[H024]
+Name=Ultimate Orb|nUltimate Orb
+hotkey=o
+tip= law limits the ball (|cffffcc00o|r)|nultimate orb
+ubertip=|cffffcc00 |r|n properties: 10 increase all the properties of the point that contains a |n|n|cff838b8b the essence of life in the sphere of the mysterious |r
+[h025]
+name=dynamism in the ball |nvitality booster
+hotkey=b
+tip= dynamism in the ball (|cffffcc00b|r)|nvitality booster
+ubertip=|cffffcc00 |r|n properties: 250 increase life limit |n|n|c00838b8bminie|r
+[h026]
+name=false gemstones |nvoid stone
+hotkey=v
+tip= emptiness gemstone (|cffffcc00v|r)|nvoid stone
+ubertip=|cffffcc00 |r|n properties: Increase the magic 100% recovery rate |n|n|cff838b8b this precious stones looks belie a boundless energy |r
+[h027]
+name=Javelin |njavelin
+hotkey=j
+tip= javelin (|cffffcc00j|r)|njavelin
+ubertip=|cffffcc00 |r|n properties: 10 Additional mana |n attack caused the probability of 85 25% point |n|n|c00838b8b extra damage is more like a javelin, standard spear were used to attack the enemy will penetrate the armor |r
+[H028]
+Name=Purification Potion|nClarity Potion
+Hotkey=C
+Tip=Clarity Potion (|cffffcc00C|r)|nClarity Potion
+ubertip=|cffffcc00 |r|n|cffff8000 properties: Magic |r|n reply: 50 seconds in the restoration of 190 point magic, attacked loses effect |n|n|c00838b8b per bottle dispensed are trapped in a fresh little goblins |r
+[h029]
+name=treatment creams |nhealing pescoluse
+hotkey=v
+tip= treatment creams (|cffffcc00v|r)|nhealing pescoluse
+ubertip=|cffffcc00 |r|n|cffff8000 properties: Life Reply: |r|n in 8 seconds to recover a friendly parties 400 units life, attacked loses effect |n|n|c00838b8b with magic power of creams and deep wounds can also quickly to heal |r
+[H02A]
+name=HIV siphiwe ancient sacrifice |nancient tango of essifation
+hotkey=s
+tip= HIV siphiwe ancient sacrifice (|cffffcc00s|r)|nancient tango of essifation
+ubertip=|cffffcc00 properties: |r|n|cffff8000 swallowed: |r|n allows users of swallowing trees or guarded, recover within 16 seconds 115 life; swallowed the janitor effect to redouble their |n|n |cffff03034|r can use time with you |n|n|c00838b8b will become dependent on it!
+[H02B]
+Name=magic bottle|nEmpty Bottle
+hotkey=b
+tip= bottle (|cffffcc00b|r)|nempty bottle
+ubertip=|cffffcc00 |r|n|cff0033cc properties: Storage springs |r|n: Each time you use the 2.5 seconds to recover 90 life and 60 points magic, you can use the 3 times; magic bottle is empty, close to his side of the fountain is automatically filled |n|n|cffff8000 stored talisman |r|n: Magic bottle is empty, can be used to store the god, 2 minutes after talisman will automatically be used; use of God and the bottle will automatically be filled |n|n|c00838b8b Elf do not have to exist here… |r
+[H02C]
+name=reconnaissance guard
+hotkey=o
+tip= reconnaissance guard (|cffffcc00o|r)|nobserver wards
+ubertip=|cffffcc00 properties: |r|n|cffff8000 reconnaissance guard |r|n: Put a reconnaissance guards to monitor 1 chip, the investigation of the regional guard does not have a true vision |n|n |cffff03032|r can use time |n store the maximum amount of storage: 1|n|cff99ccff Duration: |r7 minutes |n|cff99ccff regeneration time: |r3 minutes
+[H02D]
+name=outpost guarding
+hotkey=w
+tip= outpost guarding (|cffffcc00w|r)|nsentry ward
+ubertip=|cffffcc00 properties: |r|n|cffff8000 outpost guarding |r|n: Place a true vision of outpost guarding, can be detected surrounding invisible units; its own vision is very small |n|n |cffff03032|r can use the Time Duration: |r4 |n|n|cff99ccff minutes
+[H02E]
+name=back to the city of town |nscroll roll portal
+hotkey=t
+tip= (|cffffcc00t|r)|nscroll roll back to the city of town
+ubertip=|cffffcc00 portal properties: |r|n|cffff8000 |r|n delivery: will you transfer to any side of the building |n|cff99ccff cooling time: |r70
+[H02F]
+name=animal courier |nanimal courier
+hotkey=r
+tip= animal courier (|cffffcc00r|r)|nanimal courier
+ubertip=|cffffcc00 |r|n|cffff8000 properties: Call courier |r|n: Create a small, fast, capable of carrying goods to and from the base.
+[H02G]
+Name=Perseverance|nPerseverance
+hotkey=
+tip= tough ball |nperseverance
+ubertip=|cffffcc00 |r|n properties: 10 Additional mana to raise 6-Point / |n second life recovery rate increase the 125% |n magic recovery rate |n|n|cffffcc00 |r|n needs: Medical Ring - 850|n emptiness Precious Stones - 850|N|N|C00838B8B Total Price: 1700|r
+[H02H]
+name=recovery of rejuvenation |nheaddress turban
+hotkey=e
+tip= (|cffffcc00e|r)|nheaddress turban recovery of rejuvenation
+ubertip=|cffffcc00 |r|n properties: 2 points increase all the properties of the Halo |r |n|cff0033cc recovery (Passive) |n|n|cffffcc00 |r|n needs: recovery of the Lord Of The Rings - TI branches - 325|n 50|n 200|N|N|C00838B8B Roll - Total price: 575|r
+[H02I]
+name=Hyun meditation |nnathrezim shields buckler
+hotkey=b
+tip= Hyun meditation (|cffffcc00b|r)|nnathrezim shields buckler
+ubertip=|cffffcc00 |r|n properties: 2 increase all the properties of the Point 5 points increase |n armor |n|cffff8000 defense raise |r (active) |n|n|cffffcc00 needs: |r|n lock - A TI branches - 550|n 50|n 200|N|N|C00838B8B Roll - Total price: 800|r
+[H02J]
+name=King's treatment of basilius |nring
+hotkey=
+tip= king's treatment of basilius |nring
+ubertip=|cffffcc00 |r|n properties: 6 increase mana to increase 1 |n point armor |n|cff0033cc focus ring |r (Passive) |n|cff0033cc brilliant light ring |r (Passive) |n|n|cffffcc00 needs: |r|n artist Grille - 325|n daemon ring 175|N|N|C00838B8B - Total price: 500|r|n|n|cfffffc01 |r
+[H02K] can split the
+name= Hayato |nboots shoes of travel
+hotkey=t
+tip= Hayato (|cffffcc00t|r)|nboots shoes of travel
+ubertip=|cffffcc00 |r|n properties: 100 points to raise the movement speed |n|cffff8000 |r transfer (active) |n|n|cffffcc00 |r|n needs: Speed of the boots - 400|n 2000|N|N|C00838B8B Roll - Total price: 2400/4400|r|n|n|c00fffc01 can use roll upgrade (for a total of 2 rating) |r|n|n|c00ff0303 move speed boost effect is not associated with any other shoes stacked |r
+[H02L]
+name=Ahmedabad, |nhand hand of Midas
+hotkey=d
+tip= Ahmedabad, (|cffffcc00d|r)|nhand hand of Midas
+ubertip=|cffffcc00 |r|n properties: Raise 30 attack speed |n|cffff8000 alchemists |r (active) |n|n|cffffcc00 needs: |r|n acceleration gloves - 500|n Roll - 1550|N|N|C00838B8B 2050|r|n|n|cffff0303 Total Price: Tinker cannot refresh this items |r
+[H02M]
+name= NULL Ming income |noblivion staff
+hotkey=
+tip= empty Ming income |noblivion
+ubertip=|cffffcc00 staff attributes: 15 points increase |r|n attack |n increase 6 point intellectual |n 75% increase with the magic recovery rate of attacks 10 |n lift speed |n|n|cffffcc00 |r|n needs: - short batons 875|n mage gowns - 450|n artist Grille - 325|N|N|C00838B8B Total Price: 1650|r
+[H02N]
+wrist= |nbracer
+hotkey=b
+tip= wrist (|cffffcc00b|r)|nbracer
+ubertip=|cffffcc00 |r|n properties: 3 points increase all the properties of the increase in the strength of 3 points |n |n increase 3 point attack |n|n|cffffcc00 needs: |r|n aristocratic circle - 165|n strength - gloves 150|n 210|n|n|c00838b8b Roll - Total price: 525|r
+[H02O]
+name= to the spirit of the tether strap |nwraith
+hotkey=w
+tip= band to the spirit of the tether strap (|cffffcc00w|r)|nwraith
+ubertip=|cffffcc00 band properties: 3 points increase |r|n |n all properties increased 3 point 3 increase agility |n mana |n|n|cffffcc00 needs: |r|n aristocratic circle - 165|n agility - walking shoes 150|n 170|N|N|C00838B8B Roll - Total price: 485|r
+[H02P]
+name=empty hanging |nnull talisman
+hotkey=n
+tip= ethereal hanging (|cffffcc00n|r)|nnull talisman
+ubertip=|cffffcc00 |r|n properties: 3 increase all the properties of the Point 3 points increase |n intellectual |n increase 3 point attack |n|n|cffffcc00 needs: |r|n aristocratic circle - 165|n intellectual cloak 150|n - Roll - 155|N|N|C00838B8B Total Price: 470|r
+[H02Q]
+name=specter |nyasha
+hotkey=y
+tip= specter (|cffffcc00y|r)|nyasha
+ubertip=|cffffcc00 |r|n properties: 16 points increase agility |n raise 15 attack speed |n 10% raise the movement speed |n|n|cffffcc00 |r|n needs: Joy of order - 1000|n leather boots - Goblin 450|n 600|n|n|c00838b8b Roll - Total price: 2050|r|n|n|cffff0303 specter mobile speed boost effect cannot and dents jaunes and the cooling night for sword |r
+[H02R]
+Name=Sange|nSange
+hotkey=s
+tip= [|cffffcc00s|r] China - 600 Thermal
+ubertip=|cffffcc00 |r|n properties: 10 Additional mana to increase the strength of 16 points |n |n|cff0033cc |r disability (Passive) |n|n|cffffcc00 |r|n needs: one of the ogre hammer - 1000|n giant power - belt roll - 450|n 600|N|N|C00838B8B Total Price: 2050|r
+[H02S]
+name=chopper cranial hammer |ncranium basher
+hotkey=s
+tip= chopper cranial hammer (|cffffcc00s|r)|ncranium basher
+ubertip=|cffffcc00 |r|n properties: 10 Additional mana to increase the strength of 10 |n |n|cff0033cc point to click |r (Passive) |n|n|cffffcc00 needs: |r|n - Javelin 1500|n giant power - belt roll - 450|n 750|N|N|C00838B8B 2700|r|n|n|cffff0303 Total Price: Reset Click effects not with other passive click__LW_NL__overlay |r
+[H02T]
+Name=Blademail|nBlade Mail
+hotkey=
+tip= mail order a |nblade
+ubertip=|cffffcc00 mail attributes: 22 points increase |r|n attack |n increase 10 points 5 points increase |n intellectual armor |n|cffff8000 stabs |r (active) |n|n|cffffcc00 needs: |r|n widen the sword - 1200|n lock - a 550|n mage robe 450|N|N|C00838B8B - Total price: 2200|r
+[H02U]
+name=whirlpool |nmaelstrom
+hotkey=m
+tip= whirlpool (|cffffcc00m|r)|nmaelstrom
+ubertip=|cffffcc00 |r|n properties: Increase 24 mana to raise 25 |n attack speed |n|cff0042ff chain lightning |r (Passive) |n|n|cffffcc00 needs: |r|n secretary silver - Hammer 1600|n acceleration gloves - 500|n Roll - 700|N|N|C00838B8B Total Price: 2800|r|n|n|cffff0303 law ball effect cannot be stacked |r
+[H02V]
+Name=net Soul Blade|nDiffusal Blade
+hotkey=d
+tip= soul of net order (|cffffcc00d|r)|ndiffusal blade
+ubertip=|cffffcc00 |r|n properties: 20/35 increased agility |n point increase 10/15 point intellectual |n|cff0033cc |r feedback (Passive) |n|cffff8000 purification |r (active) |n|n|cffffcc00 needs: |r|n joy of order - x2 2000|n mage gowns - 450|n 700|N|N|C00838B8B Roll - Total price: 3150/3850|r|n|n|c00fffc01 can use roll upgrade (for a total of 2 rating) or filling ramp to 1 to switch directly |r|n|n|c00838b8b into the magic of the soul of the enemy's blade |r
+[H02W]
+name= dominant |nhelm helmet of the dominator
+hotkey=
+tip= dominant |nhelm helmets of the dominator
+ubertip=|cffffcc00 |r|n properties: Increase 20 mana to increase 5 |n point armor |n 15% increase the riser 3 Points / |n second life recovery rate |n|cffff8000 dominant |r (active) |n|n|cffffcc00 needs: |r|n iron intended - Helmet 900|n 900|N|N|C00838B8B death mask - Total price: 1800|r|n|n|cffff0303 law ball effect cannot be stacked |r|n|n|cffff0303 tinker cannot refresh this items can be split |r |r|n|n|c00fffc01
+[H02X]
+name=crazy masks |nmask of madness
+hotkey=a
+tip= crazy masks (|cffffcc00a|r)|nmask of madness
+ubertip=|cffffcc00 |r|n properties: Increase the blood |n|cffff8000 20% fanaticism |r (active) |n|n|cffffcc00 needs: |r|n death mask - 900|n 900|N|N|C00838B8B Roll - Total price: 1800|r|n|n|cffff0303 law ball effect cannot be stacked |r
+[H02Y]
+name=eul sacred law income |neul's scepter of divinity
+hotkey=t
+tip=eul sacred law (|cffffcc00t|r)
+ubertip=|cffffcc00 income increased 10 |r|n properties: point intellectual |n 150% raise the magic recovery rate 40 points to raise |n movement speed |n|cffff8000 |r storm (active) |n|n|cffffcc00 |r|n needs: magic wand - the law of the spirit of the tattoo 1000|n wind - 235|n emptiness gems - Roll - 850|n 650|n|n|c00838b8b Total Price: 2735|r
+[H02Z]
+name=Jin Hun Shi |nsoul booster
+hotkey=
+tip= Jin Hun Shi |nsoul booster
+ubertip=|cffffcc00 |r|n properties: 450 increase life limit |n increase 400 points Magic Cap 4 Points / |n raise seconds life recovery rate |n 100% raise the magic recovery rate |n|n|cffffcc00 needs: |r|n dynamism in the ball - 1100|n energy's ball - 900|n spirit of ball - 1200|n|n|c00838b8b Total Price: 3200|r
+[h030]
+name=Makens Bloom |nmekansm
+hotkey=m
+tip= makens bloom (|cffffcc00m|r)|nmekansm
+ubertip=|cffffcc00 |r|n properties: 5 increase all the properties of the Point 5 points increase |n armor |n|cff0033cc reply halo |r (Passive) |n|cffff8000 |r vitality (active) |n|n|cffffcc00 needs: |r|n recovery turban -575 (Support Law |n Yi) - 800 Hyun meditation Shield Support Law (Yi) |n Roll - 900|n|n|c00838b8b Total Price: 2275|r
+[h031]
+name= heat sink night for sword |nsange yasha
+hotkey=
+tip= and heat sink night for sword |nsange yasha
+ubertip=|cffffcc00 and properties: 16 points increase |r|n attack |n increase 16 points 16 points increase |n forces agile |n 16% raise the speed of a movement to raise 16 attacks |n speed |n|cff0033cc |r disability (Passive) |n|n|cffffcc00 |r|n needs: Heat Sink - China 2050 (with magic Antiquities) - 2050 |n specter (Magic antiquities |n|n|c00838b8b) Total Price: 4100|r |n|n|c00fffc01 |r
+[H032]
+Name=dark off|nStygian Desolator
+hotkey=
+tip= |nstygian desolator off dull
+ubertip=|cffffcc00 |r|n properties: Increase 60 points to attack the attacker |r |n|cff0033cc corrosion (Passive) |n|n|cffffcc00 |r|n needs: Secretary - Silver hammer *2 3200|n withered Stone - 300|n|n|c00838b8b Total Price: 3500|r|n|n|cffff0303 law ball effect cannot be stacked |r|n|cff99ccff attack effects cannot be stacked |r
+[h033]
+name=rabies Tomahawk |nbattle fury
+hotkey=
+tip= rabies Tomahawk |nbattle fury
+ubertip=|cffffcc00 |r|n properties: Increase 55 mana to raise 6-Point / |n second life recovery rate |n 150% raise the magic recovery rate |n|cff0033cc split attack |r (Passive) |n|cff0033cc |r repression (Passive) |n|cffff8000 |r logging (active) |n|n|cffffcc00 needs: |r|n widen the sword - large sword - 1200|n 1400|n suppression of order - 200|n tough -1700 ball (St. |n|n|c00838b8b passes) Total Price: 4500|r|n|n|c00838b8b the one who owns it could become a 1 of the killing machine |r
+[h034]
+name= Crystal sword |ncrystalys
+hotkey=c
+tip= crystal sword (|cffffcc00c|r)|ncrystalys
+ubertip=|cffffcc00 |r|n properties: Increase 30 mana |n|cff0033cc fatal 1 click |r (Passive) |n|n|cffffcc00 needs: |r|n widen the sword - 1200|n claws of attack - 420|n Roll - 500|n|n|c00838b8b Total Price: 2120|r
+[h035]
+name=black income |nblack king bar
+hotkey=b
+tip= black income (|cffffcc00b|r)|nblack king
+ubertip=|cffffcc00 bar properties: 24 points increase |r|n attack |n increase 10 point forces where |r |n|cffff8000 Tenjin (active) |n|n|cffffcc00 needs: |r|n Ogre - The hammer 1000|n Secretary - Silver hammer 1600|n Roll - 1375|n|n|c00838b8b 3975|r|n|n|cffff0303 Total Price: Tinker cannot refresh this items |r
+[h036]
+name=phantom hammer |nmanta style
+hotkey=m
+tip= phantom hammer (|cffffcc00m|r)|nmanta
+ubertip=|cffffcc00 style attributes: |r|n raise 15 attack speed increase 10 |n point all properties 16 |n increase agility |n point raise 10% |n|cffff8000 the movement speed of the mirage |r (active) |n|n|cffffcc00 Needs: 2050 - Specter |r|n (relics) |n sexily law limits the ball - 2100|n Roll - 800|n|n|c00838b8b Total Price: 4950|r|n|n|cfffffc01 |r
+[h037] can split the
+name= Loza, the TSE |nlothar's edge
+hotkey=
+tip= Loza, the TSE |nlothar's edge
+ubertip=|cffffcc00 |r|n properties: 30 Additional mana to raise 30 |n attack speed |n|cffff8000 Adversity is the step-by-step |r (active) |n|n|cffffcc00 needs: |r|n large sword - 1400|n tinkle - The Total Price: 2700|r 1300|n|n|c00838b8b
+[H038]
+Name=Dagon the god|nDagon
+Hotkey=D
+Tip=Dagon divine power (|cffffcc00D|r)|nDagon
+ubertip=|cffffcc00 |r|n properties: 9 increase mana to increase 3 |n point all properties 13 |n increase point intellectual |n|cffff8000 energy shocks |r (active) |n|n|cffffcc00 needs: |r|n magic law - income 1000|n ethereal hanging -470 (St. |n passes) - roll 1250|n|n|c00838b8b Total Price: 2720/3970/5220/6470/7720|r|n|n|c00fffc01 can use roll upgrade (for a total of 5 rating) |r
+[h039]
+name=dead book |nnecronomicon
+hotkey=n
+tip= dead book (|cffffcc00n|r) |nnecronomicon
+ubertip=|cffffcc00 |r|n properties: 8 points increase strength increase 15 |n point intellectual |n|cffff8000 call |r dead (active) |n|n|cffffcc00 |r|n needs: Magic law - income 1000|n giant power - belt roll - 450|n 1200|n|n|c00838b8b Total Price: 2650/3850/5050|r|n|n|c00fffc01 can use roll upgrade (for a total of 3 rating) |r|n|n|cffff0303 tinker cannot refresh this items |r
+[H03A]
+name=Lincoln law ball |nlinken's sphere
+hotkey=r
+tip= Lincoln law ball (|cffffcc00r|r)|nlinken's sphere
+ubertip=|cffffcc00 |r|n properties: 15 points increase all the properties of the 15 points increase |n attack |n raise 6-Point / Second Life Recovery Rate |n 150% raise the magic recovery rate |n|n|cff0033cc mana negative: |r (Passive) |n|cffff8000 negative transfer: (active) |r|n|n|cffffcc00 |r|n needs: Tough ball - 1700 (St. |n passes) limits - law ball roll - 2100|n 1000|N|N|C00838B8B Total Price: 4800
+[H03B]
+name= eternal daemon |naegis of the immortal
+hotkey=
+tip= eternal daemon |naegis of the immortal
+ubertip=|cffffcc00 |r|n|cff0033cc properties: Regenerate |r|n: Following the death of a hero in place resurrection |n|n|cffffcc00 kill roshan |r proceeds
+[H03C]
+name= HOLY WEAPON |ndivine rapier
+hotkey=
+tip= holy weapon |ndivine rapier
+ubertip=|cffffcc00 |r|n properties: 330 increase mana |n|n|cffffcc00 |r|n needs: Holy Relics - 3800|n demon razor - 2400|n|n|c00838b8b 6200|r|n|n|cffff0303 Total Price: Following the death of a falling |n |r not sell
+[H03D]
+name=Snow Flying artillery |nburiza-do kyanon
+hotkey=b
+tip= artillery (|cffffcc00b|r) -1000
+ubertip=|cffffcc00 |r|n properties: Increase 81 mana |n|cff0033cc fatal 1 click |r (Passive) |n|n|cffffcc00 needs: |r|n demon razor - 2400|n crystal sword - 2120 (ancient weapons |n) - roll 1000|r|n|n|c00838b8b 5520|r
+[H03E]
+name=Kim also stick |ngolden cudgel
+hotkey=
+tip= Kim also stick |ngolden cudgel
+ubertip=|cffffcc00 |r|n properties: Increase 66 mana to raise 15 |n attack speed |n|cff0033cc punching |r |n|cff0033cc (Passive) of defeating the enemy is |r (Passive) |n|n|cffffcc00 needs: |r|n javelin x2 3000|n - Blade - Demon 2400|n|n|c00838b8b 5400|r
+[H03F] Total Price:
+name=radiance |nradiance
+hotkey=r
+tip= radiance (|cffffcc00r|r)|nradiance
+ubertip=|cffffcc00 |r|n properties: Increase 65 mana |n|cff0033cc radiance |r (Passive) |n|n|cffffcc00 needs: Holy Relics - |r|n 3800|n 1350|n|n|c00838b8b Roll - Total price: 5150|r
+[H03G]
+name="Heart of Tarrasque"
+hotkey=a
+tip="Heart of T|cffffcc00a|rrrasque - 1400"
+Ubertip="|cffffcc00Gives:|r |n +45 Strength |n +2% HP regen |n +250 HP |n|n|cffffcc00Requires:|r |n Messerschmidt's Reaver - 3000 |n Vitality Booster - 1100 |n Recipe - 1400 |n|n|c00838B8B Total Cost: 5500"
+[H03H]
+name=Satan evil force |nsatanic
+hotkey=n
+tip= Satan evil force (|cffffcc00n|r)|nsatanic
+ubertip=|cffffcc00 |r|n properties: Increase the blood |n 25% increase 20 mana to increase the strength of 25 |n point 5 points increase |n armor |n raise 3-Point / Second Life Recovery Rate |n|cffff8000 dirty fanaticism |r (active) |n|n|cffffcc00 needs: |r|n dominant helmet - 1800 (with magic Antiquities) |n messerschmidt - the plundering of 3000|n Roll - 1100|n|n|c00838b8b Total Price: 5900|r|n|n|cffff0303 law ball effect cannot be stacked |r
+[H03I]
+name=, Ka- the eye of skadi |neye
+Hotkey=
+tip=, Ka- the eye of skadi |neye
+ubertip=|cffffcc00 |r|n properties: 25 increase all the properties of the point raised 250 |n life limit |n increase 250 points Magic Cap |n|cff0033cc |r frost attacks (Passive) |n|n|cffffcc00 needs: |r|n two limits - Ball 4200|n law spirit of ball - 1200|n Cui Pearl of the anti-drug 275|n|n|c00838b8b - Total Price: 5675
+[H03J]
+name=butterfly |nthe butterfly
+hotkey=
+tip= butterfly |nthe butterfly
+ubertip=|cffffcc00 |r|n properties: 35 points increase agility |n increase 30 mana to raise 30 |n point attack speed |n 35% raise the evade |n|cffff8000 wingbeat |r (active) |n|n|cffffcc00 needs: |r|n takatsuno bow - 3200 |n dodged the -1700 |n short batons -875 |N|N|C00838B8B Total Price: 5775
+[H03K]
+name=al-Halim |naghanim's scepter God income
+hotkey=
+tip= al-Halim God income |naghanim's scepter
+ubertip=|cffffcc00 |r|n properties: 10 increase all the properties of the point raised 200 |n life limit |n increase 150 points Magic Cap |n|cff0033cc Olympic Volunteer |r riser (Passive) |n|n|cffffcc00 |r|n needs: lean gas's ball - Magic Wand - law 1200|n 1000|n joy of order - one of the ogre 1000|n hammer - 1000|n|n|c00838b8b Total Price: 4200|r
+[H03L]
+name= refresh ball |nrefresher orb
+hotkey=r
+tip= refresh ball (|cffffcc00r|r)|nrefresher orb
+ubertip=|cffffcc00 |r|n properties: +20 damage |n +12 HP regen/second |n +250% mana regen |n|cffff8000 |r Resets cooldowns (active) |n|n|cffffcc00 |r|n needs: 2xPerseverance - 3400 (Gateway Relics) |n Recipe 1800|n|n|c00838b8b Total Price: 5200|r|n|n|cffff0303 Tinker cannot refresh this items |r
+[H03M]
+name=guinsoo evil sickle |nguinsoo's scythe of vyse
+hotkey=
+tip=guinsoo evil sickle |nguinsoo's scythe of vyse
+ubertip=|cffffcc00 |r|n properties: 10 points increase all the properties of the 25 points increase |n intellectual |n 150% raise the magic recovery rate |n|cffff8000 witch-sul |r (active) |n|n|cffffcc00 needs: |r|n mysterious law - Income Limit - the law of ball 2700|n 2100|n emptiness Precious Stones - 850|n|n|c00838b8b Total Price: 5650|r
+[H03N]
+name=pioneer shield |nvanguard
+hotkey=
+tip= pioneer shield |nvanguard
+Ubertip="|cffffcc00Gives:|r |n +8 HP regen/second |n +300 Hit Points |n 100% to block 32 damage (16 for ranged) |n|n|cffffcc00Requires:|r |n Ring of Health - 850 |n Vitality Booster - 1100 |n Stout Shield - 200 |n|n|c00838B8B Total Cost: 2150"
+[H03O]
+name= confidentiality law |narcane ring ring
+hotkey=a
+tip= confidentiality law ring (|cffffcc00a|r)|narcane
+ubertip=|cffffcc00 ring properties: |r|n increase 4 point armor |n increase 300 points Magic Cap |n|cffff8000 supplementary magic |r (active) |n|n|cffffcc00 needs: |r|n energy's ball - 900|n daemon ring - 175|n Roll - 525|n|n|c00838b8b 1700|r|n|n|cffff0303 Total Price: Tinker cannot refresh this items |r
+[H03P]
+name=quake |nmjollnir
+hotkey=j
+tip= quake (|cffffcc00j|r)|nmjollnir
+ubertip=|cffffcc00 |r|n properties: Increase 24 mana to raise 80 |n attack speed |n|cff0033cc chain lightning |r (Passive) |n|cffff8000 electrostatic shock |r (active) |n|n|cffffcc00 Needs: 2800 - |r|n whirlpool (Magic Antiquities) |n exciting gems - 2000|n 900|n|n|c00838b8b Roll - Total price: 5700|r|n|n|cffff0303 law ball effect cannot be stacked |r|n|n|cfffffc01 |r
+[H03Q] can split the
+name= flight courier |nflying courier
+hotkey=f
+tip= flight courier (|cffffcc00f|r)|nflying courier
+ubertip=|cffffcc00 :|r |n properties strong flight courier |n|n|cffffcc00 :|r need |n animals - Courier 100 -150 |n roll |n|n|c00838b8b Total Price: 250
+[H03R]
+name=Vladimir the sacrificial offering
+hotkey=v |nvladmir's
+tip= Vladimir the sacrificial offering
+ubertip=|cffffcc00 (|cffffcc00v|r)|nvladmir's |r|n properties: 2 points to raise / sec life recovery rate |n|cff0033cc attack halo |r (Passive) |n|c000042ff suck blood |r ring (Passive) |n|cff0033cc brilliant light ring |r (Passive) |n|cff0033cc focus ring |r (Passive) |n|n|cffffcc00 needs: |r|n king's Drug Treatment - 500 (supporting law |n Yi) death mask - 900|n recovery - Ring 325|n 300|n|n|c00838b8b Roll - Total price: 2050|r
+[H03S]
+name=attack armoured |nassault cuirass
+hotkey=c
+tip= attack armoured (|cffffcc00c|r)|nassault cuirass
+ubertip=|cffffcc00 |r|n properties: 10 points increase armor |n raise 35 attack speed |n|cff0033cc attack |r ring (Passive) |n|cff0033cc barren halo |r (Passive) |n|cff0033cc fanaticism halo |r (Passive) |n|n|cffffcc00 needs: |r|n board - a 1400|n lock - A Precious Stones - 550|n exciting 2000|n 1300|N|N|C00838B8B Roll - Total price: 5250|r
+[H03T]
+name=blood porcelain |nbloodstone
+hotkey=e
+tip= blood porcelain (|cffffcc00e|r)|nbloodstone
+ubertip=|cffffcc00 |r|n properties: 500 increase life limit |n increase 400 points Magic Cap 9 Points / |n raise seconds life recovery rate |n 200% raise the magic recovery rate |n|cff0033cc |r redemption (Passive) |n|cffff8000 |r suicide (active) |n|n|cffffcc00 |r|n needs: Jin Hun Shi - 3200 (protection of territories ) |n soul - Disciplinary 800|n 875|n|n|c00838b8b Roll - Total price: 4875|r|n|n|c00838b8b centuries ago blood shaman erythros |r
+[H03U]
+Name=challenge headscarf|nHood of Defiance
+hotkey=
+tip= |nhood turban challenges of defiance
+ubertip=|cffffcc00 |r|n properties: 8 points to raise / sec life recovery rate |n 30% raise the magic wand of the confrontational |n|n|cffffcc00 |r|n needs: Wandering mage cloak 550|n - Recovery - Ring 325|n medical ring 850|n|n|c00838b8b - Total price: 1725|r|n|n|c00ff0303 effects cannot be and Wandering mage cloak and other challenges to the turban stacked |r
+[H03V]
+name=Port Moresby Siddiqui, arm of mordiggian |narmlet chapter
+hotkey=a
+tip= Kamel Morjane Siddiqui, arm of mordiggian (|cffffcc00a|r)|narmlet chapter
+ubertip=|cffffcc00 |r|n properties: 9 increase mana to increase 5 |n point armor |n raise 15 attack speed 8 lift points / |n seconds life recovery rate |n|cffff8000 evil force |r (active) |n|n|cffffcc00 needs: |r|n iron intended - Helmet 900|n acceleration gloves - 500|n claws of attack - 420|n Roll - 500|n|n|c00838b8b Total Price: 2320|r|n|n|cffff0303 equipment only |r
+[H03W]
+name=hiiva daemon |nshiva's guard
+hotkey=s
+tip= hiiva daemon (|cffffcc00s|r)|nshiva's guard
+ubertip=|cffffcc00 properties: 30 points increase |r|n intellectual |n increase 15 point armor |n|cff0033cc cream cold light ring |r (Passive) |n|cffff8000 |r impact severely cold (active) |n|n|cffffcc00 needs: |r|n board - a mysterious staff - 1400|n 2700|n 600|n|n|c00838b8b Roll - Total price: 4700|r|n|n|cfffffc01 |r
+[H03X]
+Name=purple resentment|nOrchid Malevolence
+hotkey=c
+tip= purple to [|cffffcc00c|r]
+ubertip=|cffffcc00 |r|n properties: Increase 30 mana |n increase 25 point intellectual |n 150% raise the magic recovery rate 30 |n raise attack speed |n|cffff8000 soul combustion |r (active) |n|n|cffffcc00 needs: |r|n empty Ming - 3300 income x2 (Saint property passes) |n Roll - 775|N|N|C00838B8B Total Price: 4075|r
+[H00Z]
+name=battery assault
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build structures Repair. and can become militia. |n|n|cffffcc00attacks land units and trees.|r"
+[H03Y]
+Name=lighting rocket
+Hotkey=P
+Tip=
+Ubertip=
+[H03Z]
+Name=Vengeful Spirit
+[H040]
+Name=Zeus
+[H041]
+Name=Enchantress
+[H042]
+Name=Morphling
+[H043]
+Crystal Maiden Name=
+[H044]
+Name=Swain
+[H045]
+Name=Secretary Li Xisi
+[H046]
+Name=Earthshaker
+[H047]
+Name=Rikimaru
+[H048]
+Name=noted Labelle
+[H049]
+Name=Slayers
+[H04A]
+If You Nie Name=
+[H04B]
+Name=Connaught Chong
+[H04C]
+Name=Roof Troon
+[H04D]
+Name=mystery
+[H04E]
+Name=Yi Zhaluo
+[H04F]
+Name=Ulfsaar
+[H04G]
+Name=Ogre Magi
+[H04H]
+Name=Tinker
+[H04I]
+Name=Fario
+[H04J]
+Name=Phantom Lancer
+[H04K]
+Baby Name=
+[H04L]
+Name=Goblin Engineer
+[H04M]
+Chen Name=
+[H04N]
+Name=Moon Knight
+[H04O]
+Name=Dwarf Sniper
+[H04P]
+Name=Troll Warlord
+[H04Q]
+Name=Storm Spirit
+[H04R]
+Name=Jieqi Luo
+[H04S]
+Name=Reixa
+[H04T]
+Name=Maji Na
+[H04U]
+Name=just back beast
+[H04V]
+Name=Jazz Dawei An
+[H04W]
+Name=Priestess of the Moon
+[H04X]
+Name=Centaur
+[H04Y]
+Name=Hasi Ka
+[H04Z]
+Name=Omniknight
+[H050]
+Name=Parker
+[H051]
+Name=Clockwork Goblin
+[H052]
+Name=Gondor
+[H053]
+Name=Pandaren Brewmaster
+[H054]
+Name=Alchemist
+[H055]
+Name=Cui Xisi
+[H057]
+Name=Rosta
+[H058]
+Name=La Naya
+[H056]
+Name=terror razor
+[H059]
+Name=tortured souls.
+[H05A]
+Name=Lich
+[H05B]
+Name=Ke Luobei Ruth
+[H05C]
+Name=Ryan
+[H05D]
+Name=Venomancer
+[H05E]
+Name=Magnus
+[H05F]
+Name=Wei Saji
+[H05G]
+Name=Niesha
+[H05H]
+Name=werewolf
+[H05I]
+Name=Broodmother
+[H05J]
+Name=Mo Di Cui
+[H05K]
+Name=Medusa
+[H05L]
+Name=Parana
+[H05M]
+Name=Skeleton King
+[H05N]
+Name=Lucifer
+[H05O]
+Name=Assassin Crypt
+[H05P]
+Name=Si Lada
+[H05Q]
+Name=Akasha
+[H05R]
+Name=Brooklyn Coats.
+[H05S]
+Name=Faceless Void
+[H05T]
+Name=viper
+[H05U]
+Name=razor
+[H05V]
+Name=Nai Kesi
+[H05W]
+Name=Page Na
+[H05X]
+Name=tidal hunters
+[H05Y]
+Name=Atropos
+[H05Z]
+Name=Master plague
+[H060]
+Name=fat
+[H061]
+Name=Bala Sen
+[H062]
+Name=Weaver
+[H063]
+Name=Niven magic Seoul
+[H064]
+Name=Ke Lise Pelin
+[H065]
+Name=Axe
+[H066]
+Name=史德利古尔
+[H067]
+Name=Abaddon
+[H068]
+Name=Haunt
+[H069]
+Name=Witch Doctor
+[H06A]
+Name=Obsidian Destroyer
+[H06B]
+Name=Invoker
+[H06C]
+Name=Warlock
+[H06D]
+Name=Geomancer
+[H06E]
+Name=Dai Ze
+[H06F]
+Name=Pit Lord
+[H06G]
+Name=Dirge
+[H06H]
+Name=Dark Seer
+[H06I]
+shadow= units
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H06J]
+name=blinkstrike CK
+hotkey=
+tip=
+ubertip=
+[H06K]
+name=magina dummy
+[H06L]
+name=soul the spear
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker can unit. Harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H06M]
+name=illuminate vision
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks trees.|r"
+[H06N] 
+name= Select hero [|cffffcc00e|r]
+hotkey=e
+tip= select hero [|cffffcc00e|r]
+ubertip= click select hero
+[H06O]
+name=phantom law ball
+hotkey=
+tip=
+ubertip=
+[H06P]
+name=blinding light
+hotkey=
+tip=
+ubertip=
+[H06Q]
+name=black hole FX
+hotkey=
+tip=
+ubertip=
+[H06R]
+name=blackhole shadow
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H06T]
+Name=Cuenca
+[H06U]=
+name= phantom ship
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H06V]
+name=ghost ship Trail
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H06W]
+name=light
+propernames= guarding of Los
+hotkey=
+tip=
+ubertip=
+revivetip=
+awakentip=
+[H06X]
+name= the janitor
+propernames= El Takla
+hotkey=
+tip=
+ubertip=
+revivetip=
+awakentip=
+[H06Y]
+name= the janitor
+propernames= El Takla
+hotkey=
+tip=
+ubertip=
+revivetip=
+awakentip=
+[H06Z]
+name=ezalor dummy
+[h070]
+name=coco's rum
+hotkey=
+tip=
+ubertip=
+[h072]
+name=Slak
+[h073]
+name=nightcrawler shadow
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h074]
+name=magic wand |nmagic
+hotkey=t
+tip= stick magic wand (|cffffcc00t|r)|nmagic
+ubertip=|cffffcc00 stick properties: |r|n|cffff8000 charge: |r|n after use to your supplementary life and Magic (supplementary effect depends on the number of energy per energy supplementary points 15 life & The Magic); 1200 near the scope of the enemy units to display their skills when the hero is automatically filled to 10 (high): |r13|n|n|c00838b8b |n|cff99ccff cooling time a simple yet functional magic wand, will be able to complement the energy users -- shaman apprenticeship and advanced play like! |R
+[h075]
+name=poison powder
+hotkey=p
+tip=purchase |cffffcc00p|roison powder - 100
+ubertip=description |N|N|C00838B8BNEED FLAVOR TEXT
+[H076]
+Name=developing Dust|nDust of Appearance
+Hotkey=D
+Tip=developing Dust (|cffffcc00D|r)|nDust of Appearance
+ubertip=|cffffcc00 of appearance properties: |r|n|cffff8000 Developer: |r|n immediately show used by the surrounding invisible units and lower the speed of a movement; it does not at the item bar of the superimposed |n|n |cffff03032|r can use time |n|cff99ccff scope: |r1050|n|cff99ccff Duration: |r12|n|cff99ccff cooling time: |r30|n|n|c00838b8b leave here, proceed to the fantasy worlds |r
+[h077]
+name=shackleshot arrow
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h078]
+name=power shot arrow
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h079]
+name=phase shoes |nphase boots
+hotkey=
+tip= phase shoes |nphase boots
+ubertip=|cffffcc00 properties: |r|n raise 45-point movement speed increase 24 |n mana |n|cffff8000 phase mobile |r (active) |n|n|cffffcc00 needs: |r|n speed - Boots 400|n two claws of attack 840|n|n|c00838b8b - Total price: 1240|r|n|n|c00ff0303 move speed boost effect not and any other shoes stacked |r
+[H07A]
+name=Popular persons
+[H07B]
+name=fight in the shade shadow
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H07C]
+name=glyph Of fortification
+hotkey=f
+tip= active defense the runes (|cffffcc00f|r)
+ubertip=gives a massive armorbonustoallyourstructuresfor5 |n|cff99ccffreplenish description: |r 5minutes
+[H07D]
+name=ghost ship death
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H07E]
+name=glyph of fortification
+hotkey=f
+tip= activate defense the runes (|cffffcc00f|r)
+ubertip=gives a massive armorbonustoallyourstructuresfor5 |n|cff99ccffreplenish description: |r 5minutes
+[H07F]
+name=sticking
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H07G]
+name= turmoil
+propernames= spirit of the god. Storm spirits
+hotkey=
+tip=
+ubertip=
+revivetip=
+awakentip=
+[H07H]
+name= tombstone acolyte
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build In the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H07I]
+Name=flesh puppet
+Propernames=Elegy
+Hotkey=
+Tip=Dirge
+UberTip=,adept at offensive combat and disrupting enemy troops Can learn Storm Bolt,Thunder Clap,Bash and Avatar|n|n|cffffcc00Attacks land units|r
+Revivetip=resurrection Dirge
+Awakentip=resurrection Dirge
+[H07J]
+Name=Decay Visual
+Hotkey=
+Tip=
+Ubertip=
+[H07K]
+name=shadowstrike
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic model worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H07L]
+name=version check
+hotkey=f
+tip=train |cffffcc00f|rootman
+ubertip=versatile soldier. foot can learn the defend ability. |n|n|cffffcc00attacks land units.|r
+[H07M]
+name=venomous GALEFX1
+hotkey=p
+tip=
+ubertip=
+[H07N]
+name=venomous GALEFX2
+hotkey=p
+tip=
+ubertip=
+[H07O]
+name=venomous GALEFX3
+hotkey=p
+tip=
+ubertip=
+[H07P]
+name=n chiefs chiefs
+[H07Q]
+name=turmoil hammer
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker Unit. can harvest of gold and build the structures and repair. lumber, can become militia. |n|n|cffffcc00attacks land units and trees.|r"
+[H07R]
+name=bat knight
+[H07S]
+name=magic wand |nmagic wand
+hotkey=m
+tip= magic wand (|cffffcc00m|r)|nmagic wand
+ubertip=|cffffcc00 |r|n properties: 4 increase point all properties can charge |n|cffff8000 |r (active) |n|n|cffffcc00 needs: |r|n - Magic Wand 200|n ti branches - *2 100|n aristocratic circle - 165|n|n|c00838b8b Total Price: 465|r
+[H07T]
+name=original force income |nforce
+hotkey=f
+tip= staff to the original income (|cffffcc00f|r)|nforce
+ubertip=|cffffcc00 staff attributes: 10 points increase |r|n intellectual |n raise 4/ seconds life recovery speed |n|cffff8000 |r ejection (active) |n|n|cffffcc00 needs: |r|n reply - Ring 325|n magic law - income 1000|n 900|n|n|c00838b8b Roll - Total price: 2225|r
+[H07U]
+name=n chiefs chiefs
+[H07V]
+name= spectre pharmaceutical |nghost potion
+hotkey=g
+tip= spectre pharmaceutical (|cffffcc00g|r)|nghost potion
+ubertip="transforms youtoetherealformfor4 seconds. while in this form you can neither attack nor be attacked and you take 40% bonus 2 damage from spells. charges. |n|n|cff99ccffcooldown: |r 60"
+[H07W]
+name=suppression of order |nquelling blade
+hotkey=u
+tip= repression in order (|cffffcc00u|r)|nquelling blade
+ubertip=|cffffcc00 |r|n|cff0033cc properties: Repression: |r|n proximity / remote hero to non-hero units caused the harm 40%/15% Additional Logging: |r|n |n|n|cffff8000 cut 1 tree or a guard |n|cff99ccff cooling time: |r4|n|n|c00838b8b cheap logging hammer, can also be used to counter the beast |r
+[H07X]
+name= card, the insight pipe |nkhadgar's pipe of insight
+hotkey=p
+tip= card, the insight pipe (|cffffcc00p|r)|nkhadgar's pipe of insight
+ubertip=|cffffcc00 |r|n properties: 11 points to raise / second life recovery rate of increase 30% |n magic |n|cffff8000 insulation resistance |r (active) |n|n|cffffcc00 needs: |r|n challenges - the hijab 1725 (protection territory) - 575 |n restore the hijab (Support Law |n Yi) - roll 800|n|n|c00838b8b Total Price: 3100|r
+[H07Y]
+name=raise projectile dead
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. Can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H07Z]
+name=great stomp FX
+hotkey=
+tip=
+ubertip=
+[h080]
+name=stormseeker - FX 2
+hotkey=
+tip=
+ubertip=
+[h081]
+name=stormseeker - FX 1
+hotkey=
+tip=
+ubertip=
+[h082]
+name=stormseeker - FX 3
+hotkey=
+tip=
+ubertip=
+[h083]
+name=evade |ntalisman charm of a
+hotkey=e
+tip= evade the charm of a
+ubertip=|cffffcc00 (|cffffcc00e|r)|ntalisman |r|n properties: Raise the evade |n|n|c00838b8b 25% you touch it!
+[H085]
+Name=transport goods
+hotkey=t
+tip= [|cffffcc00t|r] transporting goods
+ubertip= Tap to put this on the transport of dangerous goods to the Hero
+[h086]
+name=poor ghost shield |npoor man's shield
+hotkey=
+tip= poor ghost shield |npoor man's shield
+ubertip=|cffffcc00 |r|n properties: 6 points increase agility |n|cff0033cc injury withstand |r (Passive) |n|n|cffffcc00 needs: |r|n round shield - 200|n two agility - walking shoes 300|n|n|c00838b8b 500|r
+[H087]
+Name=ghost scepter|nGhost Scepter
+hotkey=p
+tip= soul sceptre (|cffffcc00p|r)|nghost scepter
+ubertip=|cffffcc00 |r|n properties: 5 increase point all properties |n|n|cffff8000 |r spectre patterns (active)
+[h088]
+name=static connection
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h089]
+name=voltage caster
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H08A]
+name=suffered shrapnel
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H08E]
+name= agile |nslippers shoes of 073
+hotkey=
+tip= agile soutane
+ubertip=|cffffcc00 |r|n properties: 3 points increase agility |n|n|cff838b8b use spider leather boots, can make you feel a little sting |r
+[H08F]
+name=suppression of order |nquelling blade
+hotkey=
+tip= repression in order |nquelling blade
+ubertip=|cffffcc00 |r|n|cff0033cc properties: Repression: |r|n proximity / remote hero to non-hero units caused the harm 40%/15% Additional Logging: |r|n |n|n|cffff8000 cut 1 tree or a guard |n|cff99ccff cooling time: |r4|n|n|c00838b8b cheap logging hammer, can also be used to counter the beast |r
+[H08G]
+name=medical ring |nring of health
+Hotkey=
+tip= medical |nring ring of health
+ubertip=|cffffcc00 |r|n properties: 6 Points / improve the lives of the second recovery rate in the upper body fat people |n|n|cff838b8b Chai body found emitting rings |r
+[H08H]
+name=back to the city of town |nscroll roll portal
+hotkey=t
+tip= (|cffffcc00t|r)|nscroll roll back to the city of town
+ubertip=|cffffcc00 portal properties: |r|n|cffff8000 |r|n delivery: will you transfer to any side of the building |n|cff99ccff cooling time: |r70
+[H08I]
+name=magic wand |nmagic
+hotkey=
+tip= stick magic wand
+ubertip=|cffffcc00 properties: |r|n|cffff8000 charge: |r|n after use to your supplementary life and Magic (supplementary effect depends on the number of energy per energy supplementary points 15 life & The Magic); 1200 near the scope of the enemy units to display their skills when the hero is automatically filled to 10 (high): |r13|n|n|c00838b8b |n|cff99ccff cooling time a simple yet functional magic wand, will be able to complement the energy users -- shaman apprenticeship and advanced play like! |R
+[H08J]
+name=|nsobi MASK mask
+hotkey= artist
+tip= artist grille |nsobi
+ubertip=|cffffcc00 mask properties: |r|n increase 50% magic recovery rate |n|n|cff838b8b mage and healers were used when the scanner offering |r
+[H08K]
+Name=Buckler|nStout Shield
+hotkey=
+tip= round shield
+ubertip=|cffffcc00 properties: |r|n proximity / remote hero from common attacks with the probability of 16/8 50% withstand damage |n|n|c00838b8b this small shield was originally a person's Keg |r achievers in the
+[H08L]
+Name=Reply ring|nRing of Regeneration
+hotkey=
+tip= reply ring |nring of regeneration
+ubertip=|cffffcc00 |r|n properties: 2 points to raise / sec life recovery rate |n|n|c00838b8b gnomes who believe this ring can bring good luck |r
+[H08M]
+name=false gemstones |nvoid stone
+hotkey=v
+tip= emptiness gemstone (|cffffcc00v|r)|nvoid stone
+ubertip=|cffffcc00 |r|n properties: Increase the magic 100% recovery rate |n|n|cff838b8b this precious stones looks belie a boundless energy |r
+[H08N]
+name=iron intended |nhelm helmet of iron will
+hotkey=
+tip= iron intended helmet |nhelm of iron
+ubertip=|cffffcc00 will increase 5 |r|n properties: point armor |n raise 3-Point / second life recovery rate of 1-bit killed 0928 |n|n|c00838b8b's legendary Samurai wear a helmet |r
+[H08O]
+name=|nmask death mask of death
+hotkey=
+tip= |nmask death mask of death
+ubertip=|cffffcc00 |r|n properties: Increase the blood |n|n|cffff0303 15% law ball effect cannot be stacked |r|n|n|cff838b8b no more-to-be of a
+[H08P]
+Name=wizard boots|nBoots of Elvenskin
+hotkey=
+tip= goblin |nboots leather boots of elvenskin
+ubertip=|cffffcc00 |r|n properties: 6 points increase agility |n|n|cff838b8b this shoe is frequently used to show the space step |r
+[H08Q]
+name=giant power lap |nbelt of giant strength
+hotkey=
+tip= giant power lap |nbelt of giant
+ubertip=|cffffcc00 strength properties: |r|n increase 6 Point Forces |n|n|cff838b8b children and pregnant women use |r
+[H08R]
+name= mage robe of the magi
+hotkey= |nrobe
+tip= mage robe |nrobe of the magi
+ubertip=|cffffcc00 |r|n properties: 6 points increase intellectual |n|n|cff838b8b this robe will corrode the soul, but in return, an increase in the number of intellectual |r
+[H08S]
+name=Gloves |ngloves acceleration of haste richardhaste@acprail.com
+hotkey=
+tip= acceleration gloves
+ubertip=|cffffcc00 |r|n properties: Raise 20 attack speed |n|n|c00838b8b this dual magic glove, seemed to lighter weapons |r
+[H08T]
+name=claws of attack |nblades of attack
+hotkey=
+tip= |nblades claws of attack of attack
+ubertip=|cffffcc00 |r|n properties: 9 increase mana |n|n|cff838b8b sadists, optional 1 weapons |r
+[H08U]
+name= short batons |nquarterstaff
+hotkey=
+tip= short batons |nquarterstaff
+ubertip=|cffffcc00 |r|n properties: 10 Additional mana to raise 10 |n attack speed |n|n|c00838b8b to 4 Root short batons to 1 Composition of the root login stick with which to! |R
+[H08V]
+name=evade |ntalisman charm of a
+hotkey=a
+tip= evade the charm of a
+ubertip=|cffffcc00 |ntalisman |r|n properties: Raise the evade |n|n|c00838b8b 25% you touch it! |R
+[H08W]
+name=Kohler The daggers |nkelen's dagger
+hotkey=
+tip= Kohler The daggers |nkelen's dagger
+ubertip=|cffffcc00 properties: |r|n|cffff8000 transient mobility: |r|n moment to move to the target location |n|n|cffff0303 from the hero's 3 seconds after the injury within the law cannot use |r|n|cff99ccff |r1200|n|cff99ccff distance: cooling time: |r14|n|n|c00838b8b legendary haizet LAS to the Mainland as the wind of the assassinator Kohler used the daggers |r
+[H08X]
+name=limit law ball |nultimate orb
+hotkey=
+tip= law limits the ball |nultimate orb
+ubertip=|cffffcc00 |r|n properties: 10 increase all the properties of the point that contains a |n|n|cff838b8b the essence of life in the sphere of the mysterious |r
+[H08Y]
+name=flame yoke
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H08Z]
+name=refraction
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h090]
+name= Mystic Snake
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h091]
+name=hiiva daemon |nshiva's guard
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[h092]
+name=plasma
+hotkey=p
+tip=train farm |Cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks trees.|r"
+[H093]
+Name=energy ball|nEnergy Booster
+Hotkey=E
+Tip=energy ball (|cffffcc00E|r)|nEnergy Booster
+ubertip=|cffffcc00 |r|n properties: Increase 250 points Magic Cap |n|n|c00838b8benie|r
+[h094]
+name=aura
+hotkey=p
+tip=
+ubertip=
+[h095]
+name=gem_large
+hotkey=p
+tip=
+ubertip=
+[h096]
+name=gem_small
+hotkey=p
+tip=
+ubertip=
+[h097]
+name=gem_small
+hotkey=p
+tip=
+ubertip=
+[h098]
+name= Dark door
+hotkey=p
+tip=
+ubertip=
+[H09A]
+name= resurrection hero (500)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[h099]
+name= resurrection hero (450)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09B]
+name= resurrection hero (400)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09C]
+name= resurrection hero (350)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09D]
+name= resurrection hero (300)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09E]
+name= resurrection hero (250)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09F]
+name= resurrection hero (150)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09G]
+name= resurrection hero (50)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09H]
+name= resurrection hero (200)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09I]
+name= resurrection hero (1050)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09J]
+name= resurrection hero (550)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09K]
+name= resurrection hero (600)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09L]
+name= resurrection hero (650)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09M]
+Name=resurrected hero (700)
+Hotkey=R
+Tip=resurrected hero [|cffffcc00R|r]
+Ubertip=Click here to immediately resurrect your hero
+[H09N]
+name= resurrection hero (750)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09O]
+name= resurrection hero (800)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09P]
+name= resurrection hero (850)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09Q]
+name= resurrection hero (900)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09R]
+name= resurrection hero (950)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09S]
+name= resurrection hero (1000)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09T]
+name= resurrection hero (100)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09U]
+name= resurrection hero (1600)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09V]
+name= resurrection hero (1500)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09W]
+name= resurrection hero (2650)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09X]
+name= resurrection hero (1150)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09Y]
+name= resurrection hero (1450)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H09Z]
+name= resurrection hero (1100)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A0]
+name= resurrection hero (1550)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A1]
+name= resurrection hero (1200)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A2]
+name= resurrection hero (1250)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A3]
+name= resurrection hero (1350)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A4]
+name= resurrection hero (1400)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A6]
+name= resurrection hero (1300)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A7]
+name= resurrection hero (2050)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A8]
+name= resurrection hero (2750)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A9]
+name= resurrection hero (1950)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AA]
+name= resurrection hero (1900)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AB]
+Name=resurrection Hero (1850)
+Hotkey=R
+Tip=resurrected hero [|cffffcc00R|r]
+Ubertip=Click here to immediately resurrect your hero
+[H0AC]
+name= resurrection hero (1800)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AD]
+name= resurrection hero (1700)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AE]
+name= resurrection hero (1750)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AF]
+name= resurrection hero (1650)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AG]
+name= resurrection hero (2000)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AH]
+name= resurrection hero (2200)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AI]
+name= resurrection hero (2250)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AJ]
+name= resurrection hero (2300)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AK]
+name= resurrection hero (2450)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AL]
+name= resurrection hero (2550)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AM]
+name= resurrection hero (2700)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AN]
+name= resurrection hero (2900)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AO]
+name= resurrection hero (2100)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AP]
+name= resurrection hero (2350)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AQ]
+name= resurrection hero (2400)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AR]
+name= resurrection hero (2500)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AS]
+name= resurrection hero (2600)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AT]
+name= resurrection hero (2800)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AU]
+name= resurrection hero (2850)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AV]
+name= resurrection hero (2950)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AW]
+name= resurrection hero (3000)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0A5]
+name=back to the city of roll - Color dark green
+hotkey=
+tip=
+ubertip=
+[H0AX]
+roll back to the city name= Color Effect
+hotkey=p
+tip=train |cffffcc00p|reasant
+Ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0AY]
+name= resurrection hero (2150)
+hotkey=r
+tip= resurrection hero [|cffffcc00r|r]
+ubertip= point this immediately resurrection your hero
+[H0AZ]
+name=ice cube
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0B0]
+name= ancient ice breathtaking
+[H0B1]
+name=tinkle of dance
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0B2]
+name=darkpact FX
+hotkey=p
+tip=
+ubertip=
+[H0B3]
+name=gust FX
+hotkey=p
+tip=
+ubertip=
+[H0B4]
+name=chilling touch projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0B5]
+name=boomerang FX
+Hotkey=p
+tip=
+ubertip=
+[H0B6]
+name=ice blast FX
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0B7]
+name=ice blast fake FX
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0B8]
+name=ice blast
+propernames= ice blast
+hotkey=
+tip=
+ubertip=
+revivetip=
+awakentip=
+[H0B9]
+name=phantom law income
+hotkey=i
+tip= phantom law (|cffffcc00i|r)
+ubertip=|cffffcc00 income properties: |r|n|cffff8000 |r|n phantom: Create a Destination enemy of heroes of the phantom, phantom owned body of the attack, 40% 200% bear harm |n|cff99ccff Duration: |r25|n|cff99ccff cooling time: |r30|n|n |cffff03032|r can use time |n|cff99ccff shops maximum reserves: |r1|n|cff99ccff regeneration time: |r10 minutes
+[H0BA]
+name=one spirit of shadows
+hotkey=s |nurn niches
+tip= films in niche (|cffffcc00s|r)|nurn spirit of shadows
+ubertip=|cffffcc00 |r|n properties: 6 points increase strength |n 50% raise the magic recovery rate |n|cffff8000 soul |r release (active) |n|n|cffffcc00 |r|n needs: Artist Grille - 325|n forces gloves x2 300|n - Roll - 250|N|N|C00838B8B Total Price: 875|r
+[H0BB]
+name=explosion
+hotkey=d
+tip=
+ubertip=
+[H0BC]
+name= the janitor
+propernames= El Takla
+hotkey=
+tip=
+ubertip=
+revivetip=
+awakentip=
+[H0BD]
+name=instability compounds
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. |n|n|cffffcc00attacks repair. Land units and trees.|r"
+[H0BE]
+name=gravekeeper's cloak projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0BF]
+name=back to the city - roll the color yellow
+hotkey=
+tip=
+ubertip=
+[H0BG]
+name=back to the city - Roll The Color Purple
+hotkey=
+tip=
+ubertip=
+[H0BH]
+roll back to the city name= Color - Pink
+hotkey=
+tip=
+ubertip=
+[H0BI]
+name=back to the city - roll the color blue
+hotkey=
+tip=
+ubertip=
+[H0BJ]
+name=back to the city - Roll color gray
+hotkey=
+tip=
+ubertip=
+[H0BK]
+name=back to the city of roll - color Cyan
+hotkey=
+tip=
+ubertip=
+[H0BL]
+roll back to the city name= Color - Orange
+hotkey=
+tip=
+ubertip=
+[H0BM]
+roll back to the city name= Color - bright blue
+hotkey=
+tip=
+ubertip=
+[H0BN]
+roll back to the city name= Color - brown
+hotkey=
+tip=
+ubertip=
+[H0BO]
+name=speed boot |nboots of speed
+hotkey=
+tip= speed of the boots of speed
+ubertip=|cffffcc00 |nboots |r|n properties: 45 Lift Point movement speed |n|n|c00ff0303 mobile speed boost effect is not associated with any other shoes stacked |r
+[H0BP]
+name=scream of pain projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build In the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0BQ]
+name=soul by |nsoul ring
+hotkey=s
+tip= soul by (|cffffcc00s|r)|nsoul
+ubertip=|cffffcc00 ring properties: |r|n raise 3 points per second life recovery rate |n 50% raise the magic recovery rate |n|cffff8000 |r sacrifice (active) |n|n|cffffcc00 needs: |r|n recovery - Ring 325|n artist masks - 325|n 125|n|n|c00838b8b Roll - Total price: 800|r
+[H0BR]
+name=virtual spirit's blade |nethereal
+hotkey=
+tip= blade virtual spirit's blade |nethereal blade
+ubertip=|cffffcc00 |r|n properties: 10 points increase all the properties of the 30 points increase |n |n|cffff8000 agile virtual |r impacts of globalization (active) |n|n|cffffcc00 needs: |r|n takatsuno bow - 3200|n soul - sceptre 1500|N|N|C00838B8B Total Price: 4700|r|n|n|c00fffc01 can split |r
+[H0BS]
+name=ethernet
+hotkey=p
+tip=train |cffffcc00p|reasant shock pop-
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0BT]
+name=jungle scout
+hotkey=p
+tip=
+ubertip=
+[H0BU]
+name=jungle scout
+hotkey=p
+tip=
+ubertip=
+[H0BV]
+name=collect your belongings
+hotkey=y
+tip= collect your belongings [|cffffcc00y|r]
+ubertip= drop all the items that don't belong to you, and to collect all the items belong to you, only valid within the fountain,
+[H0BW]
+Name=Supernova Sun Level 3
+Hotkey=P
+Tip=
+Ubertip=
+[H0BX]
+name=supernova ground
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0BY]
+name=phoenix dummy
+[H0BZ]
+name=Super Star Rating 1 Sun
+hotkey=p
+tip=
+ubertip=
+[H0C0]
+name=Super Star Rating 2 Sun
+hotkey=p
+Tip=
+ubertip=
+[H0C2]
+name=tinkle of toxic
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0C3]
+name=snowball
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0C4]
+name=snowball_ground
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0C1]
+name=seeking missle -2
+hotkey=p
+tip=
+ubertip=
+[H0C5]
+Name=Flying Machine
+Hotkey=C
+Tip=Summon missile [|cffffcc00C|r] - [|cffffcc00level% d|r]|n(Call Down)
+Ubertip=Summon missile [|cffffcc00C|r] - [|cffffcc00level% d|r]|n(Call Down)
+[H0C8]
+Name=Phoenix
+[H0C9]
+Name=giant teeth sea people
+[H0CA]
+Name=Legion Commander
+[H0CB]
+Name=Eredar
+[H0CC]
+name=dwarf HELICOPTER
+[H0CD] 
+name= INTERDICTOR
+[H0CE]
+name=energy
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic field The worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0CF]
+name=seeking missle -3
+hotkey=p
+tip=
+ubertip=
+[H0CG]
+name=seeking missle -1
+hotkey=p
+tip=
+ubertip=
+[H0CH]
+name=seeking missle -4
+hotkey=p
+tip=
+ubertip=
+[H0CI]
+name=Goblin
+[H0CJ]
+name=wisps
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0C6]
+name=glimpse projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0C7]
+name=psionic pulse projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land Trees.|r"
+[H0CK] units and the
+name= Sparke
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0CL]
+name=phoenix down ground
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0CM]
+name=Cui Pearl of the anti-drug |norb of venom
+hotkey=o
+tip= Cui Pearl of the anti-drug (|cffffcc00o|r)|norb of venom
+ubertip=|cffffcc00 |r|n|cff0042ff properties: Cui |r|n drug: in your arms on additional toxin, have been the target of attacks by 3 points / sec injury, the short-range / remote hero use slowed respectively the movement speed of the enemy 12%/4%, sustainable 4 seconds |n|n|cff99ccff attack effects cannot be stacked |r
+[H0CN]
+name=Cui Pearl of the anti-drug |norb of venom
+hotkey=
+tip= Cui Pearl of the anti-drug
+ubertip=|cffffcc00 |r|n|cff0042ff properties: Cui |r|n drug: in your arms on additional toxin, have been the target of attacks by 3 points / sec injury, the short-range / remote hero use slowed respectively the movement speed of the enemy 12%/4%, sustainable 4 seconds |n|n|cff99ccff attack effects cannot be stacked |r
+[H0CO]
+name=secret methods of shoes |narcane boots
+hotkey=
+tip= confidentiality law |narcane shoes boots
+ubertip=|cffffcc00 |r|n properties: 50 Lift Point movement speed increase 250 |n point Magic Cap |n|cffff8000 supplementary magic |r (active) |n|n|cffffcc00 needs: |r|n speed - Boots 400|n energy's ball - 900|N|N|C00838B8B Total Price: 1300|r|n|n|c00fffc01 can split |r|n|n|c00ff0303 mobile speed boost effect is not associated with any other shoes stacked |r|n|n|cffff0303 tinker cannot refresh this items |r
+[H0CP]
+name=int steal projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0CR]
+name=necromastery projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest Lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0CS]
+name= Cold Ice dust
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0CT]
+LABIK
+[H0CU]=
+name= Agni Goblin
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and
+[H0CV]
+Name=Supernova sun Level 1
+hotkey=p
+tip=
+ubertip=
+[H0CW]
+name=Super Star Rating 3 Sun
+hotkey=p
+tip=
+ubertip=
+[H0CX]
+name=Super Star Rating 2 Sun
+hotkey=p
+tip=
+ubertip=
+[H0CY]
+name= courage medal of courage
+hotkey=d |nmedallion
+tip= courage medal of courage
+ubertip=|cffffcc00 (|cffffcc00d|r)|nmedallion |r|n properties: 7 points increase armor |n 50% raise the magic recovery rate |n|cffff8000 |r desperate (active) |n|n|cffffcc00 needs: |r|n lock - a mask - 325|n 550|n artist in the withering of stone - 300|n|n|c00838b8b Total Price: 1175|r
+[H0CZ]
+Name=Fallen
+Hotkey=
+Tip=Fallen
+Ubertip=|cffffcc00Gives:|r|nwill add text later|n|n|cffffcc00Requires:|r|nQuelling Blade - 225|nOrb of Venom - 550|n|n|c00838B8BTotal Cost: 775
+[H0D0]
+Name=Mail|nChainmail
+Hotkey=
+Tip=Mail
+Ubertip=|cffffcc00properties:|r|nincrease of 5 Armor|n|n|c00838B8Bmade of braided metal chain armor|r
+[H0D1]
+name=patriarchs annealed drum |nancient janggo
+hotkey=a
+tip= endurance of the patriarchs, annealed (|cffffcc00a|r)|nancient janggo drum of endurance
+ubertip=|cffffcc00 |r|n properties: 9 increase point increase 6 point |n intellectual power 3 points increase agility |n |n increase 3 point attack |n 3 improve life recovery rate |n|cff0033cc durable halo |r (Passive) |n|cffff8000 |r drums (active) |n|n|cffffcc00 |r|n needs: wrist guards - 525 (passes) |n holy things the Lord Of The Rings - Reply 325|n wind spirit of tattoo - 235|n 700|n|n|c00838b8b Roll - Total price: 1785|r|n|n|c00fffc01 again purchase roll can be re-charging can
+[H0D2]
+Name=Ice Block
+Hotkey=P
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks trees.|r"
+[H0D3]
+Name=trick of fog
+hotkey=k
+ubertip=|cffffcc00 fog properties: |r|n|cffff8000 tricks of the fog |r|n: give you and the surrounding within all the Friends of 1200 Parties gamers control unit invisible (large and small maps), and to enhance the speed of a movement 15%; attacking operated, or near 1025 within the enemy's hero, defense towers will expire |n|cff99ccff Duration: |r35|n|cff99ccff cooling time: |r90|n|cff99ccff shops maximum reserves: |r3|n|cff99ccff shops refresh time: |r12 minutes
+[H0D4]
+name= resurrection hero - cooling time
+hotkey=r
+tip= resurrection cooling time
+ubertip= buy live options are in the cooling time
+[H0D5]
+name=water spray projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0D6]
+name=corpse collector gather projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. |n|n|cffffcc00attacks repair. Land units and trees.|r"
+[H0D7]
+name=corpse collector attack projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0D8]
+name=leech seed projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0D9]
+name=leech seed stun projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DA]
+name=sweeping flame projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DB]
+name=spell steal projectile
+hotkey=p
+tip=train |Cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DC]
+name=fade bolt projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DD]
+name= strife |nveil veil of discord
+hotkey=v
+tip= (|cffffcc00v|r)|nveil veil of discord strife
+ubertip=|cffffcc00 |r|n properties: 6 points increased attacks increase 6 point |n armor |n increase 6 points throughout the property 6 lift points / |n seconds life recovery rate |n|cffff8000 |r strife (active) |n|n|cffffcc00 |r|n needs: iron intended - Helmet 900|n ethereal hanging - 470|n 900|N|N|C00838B8B Roll - Total price: 2270|r
+[H0DE]
+name=continue
+hotkey=w
+tip= [|cffffcc00w|r]
+ubertip= continue to let your messenger before you proceed to the transport task.
+[H0df]
+name=infest projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks trees.|r"
+[H0DG] land units and
+the soul of the ashes of the name=
+[H0DH]
+Name=Master of Wrath
+[H0DI]
+name=sacred anger
+hotkey=
+tip=
+ubertip=
+[H0DJ]
+name=ghost ship2
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DK]
+name=ghost ship2death
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DL]
+name=ghost revenant
+propernames=ghost revenant
+hotkey=
+tip=ghost revenant
+ubertip="text. |n|n|c00ff0303strength|r -20+ 2.4|n|c000042ffagility|r -17+ 1.8|n|c000042ffintelligence|r -19+ 2.2|n|nlearns 1,2,3, |c00ff80004|r.|n|nattack and range of 500.|nmovement Speed of 290."
+revivetip=revive ghost revenant
+awakentip=revive ghost revenant
+[H0DM]
+name=ghost revenant
+[H0DN]
+name=21 point
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DP]
+name=dragon hawk
+[H0DQ]
+name=arcane bolt projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DR]
+name=haunting echoes
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DS]
+name=aliasing flywheel
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DT]
+name= harvesting's blade
+hotkey=
+The blade of harvesting
+ubertip=|cffffcc00gives:|r tip= |n will add text later |n|n|cffffcc00requires:|r |n sacred relic - 3800 - 1675 |n oblivion staff |N|N|C00838B8B 按成本： 原料 成品 total 1675
+[H0DU]
+name=quiet of shoes |ntranquil
+hotkey=
+tip= boots the quiet of shoes |ntranquil boots
+ubertip=|cffffcc00 properties: |r|n raise 85-point movement speed increase 3 |n point armor |n raise 3-Point / Second Life Recovery Rate |n|cffff8000 |r rejuvenator (active) |n|n|cffffcc00 needs: |r|n speed - Boots 400|n recovery - Ring 325|n daemon ring 175|N|N|C00838B8B - Total price: 900|r|n|n|c00ff0303 move speed boost effect is not associated with any other shoes stacked |r |n|n|c00fffc01 |r
+[H0DV]
+Name=Atos's stick|nRod of Atos
+hotkey=a
+tip= artos of batons |nrod of atos
+ubertip=|cffffcc00 |r|n properties: 25 points increase intellectual |n 325 increase life limit |n|n|cffff8000 maimed |r (active) |n|n|cffffcc00 needs: |r|n magic wand x2 law - 2000|n dynamism in the ball - 1100 |n|n|c00838b8b 3100|r
+[H0DW]
+Name=winter dragon
+[H0DX]
+name=breeze
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0DY]
+name=Moon Shard
+hotkey= a 
+tip=Moon Shard
+ubertip=|cffffcc00properties:|r|n  +120 Attack Speed  |n|n|cffff8000on the heart of silver (Active) |r |n|cff0033cc on the silver |r Fai (Passive) |n|n|cffffcc00 needs: |r|n 2xHyperstone - 4000|N|N|C00838B8BTotal Price: 4000
+[H0DZ]
+name=holy shackles projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0E0]
+name=fire projectile shackles
+Hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0E2]
+name=mortar team
+[H0E6]
+name=concussive shot projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0E7]
+name=fire panda dummy
+[H0E8]
+name=fire embers
+[H0E9]
+name= heavenly halberds |nheaven's halberd
+hotkey=
+tip= heavenly halberds |nheaven's halberd
+ubertip=|cffffcc00 |r|n properties: 20 points increase strength increase 25 |n |n mana to increase the evade |n|cff0033cc 25% |r disability (Passive) |n|cffff8000 surrendering |r (active) |n|n|cffffcc00 needs: China 2050 - Heat Sink |r|n (Magic Antiquities) |n dodged the 1700|N|N|C00838B8B - Total price: 3750|r
+[H0EA]
+name=Abyssal blade
+hotkey=
+tip=Abyssal blade
+ubertip=|cffffcc00properties: |r|n  +300 HP|n +10 Strength |n +15 Health regeneration|n +10 Attack damage|n|n|cff0033ccBash   (passive) |r |n|cffff8000 Overwhelm |r (active) |n|n|cffffcc00 needs: |r|n Vanguard - 2150 |n Cranium Basher - 2700 (Ancient Weapons) |n Recipe - 1550|N|N|C00838B8B Total Price: 6400|r|n|n|c00fffc01 can be split |r
+[H0EB]
+name= Elf torn by
+[H0EC]
+name= day eagle precepts of aquila
+hotkey= |nring
+tip= days eagle precepts of aquila
+ubertip=|cffffcc00 |nring |r|n properties: 9 increase mana to increase 6 |n point agile |n increase 3 point 1 all properties increased |n point armor |n|cff0033cc focus ring |r (Passive) |n|cff0033cc brilliant light ring |r (Passive) |n|n|cffffcc00 needs: |r|n king's Drug Treatment - 500 (supporting law Yi) |n Goryo's tether strap - 485 (St. |n|n|c00838b8b passes) Total Price: 985|r|n|n|cfffffc01 can split |r
+[H0ED]
+name=flamebreak new projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |N|n|cffffcc00attacks land units and trees.|r"
+[H0EE]
+name=splinter blast secondary projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0EF]
+name=Galvanic Arc watchdogs
+[H0EG]
+name=lightning explore persons
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks land units and trees.|r"
+[H0EH]
+name=magnetic
+hotkey=p
+tip=
+ubertip=
+[H0EI]
+Name=Shadow Charm
+hotkey=a
+tip= tinkle charm (|cffffcc00a|r)
+ubertip= raise 20 attack speed |n|cffff8000 gradually |r privacy (active)
+[H0EJ]
+name=splinter blast main projectile
+hotkey=p
+tip=train |cffffcc00p|reasant
+ubertip="basic worker unit. can harvest lumber, gold and build the structures and can become militia. repair. |n|n|cffffcc00attacks trees.|r"
+[H0EK]
+Name="Silver edge"
+hotkey=s
+Tip="|cffffcc00S|rilver edge"
+ubertip=|cffffcc00Gives:|r |n +32 Damage |n +30 Attack Speed |n +16 All Stats |n |n|cff0033cc weak |r properties (Passive) |n|cffff8000 tinkle |r step (active) |n|n|cffffcc00needs: |r|n Lothar's Edge - 2700 (Ancient weapons) |n Ultimate Orb 2100|n Recipe -300 |n|n|c00838b8bTotal Price: 5100|r|n|n|c00838b8b Once the order is not escape the prince of the weapon, but subsequently kingdom also caught by the civil strife |r
+[H0EL]
+name=magic mango |nenchanted mango
+hotkey=e
+tip= magic mango (|cffffcc00e|r)|nenchanted mango
+ubertip= per second reply with 1 life values and the immediate resumption of 150 points. To renegotiate |n|n|c00838b8b can eat |r|n|n|c00838b8b keady island-specific bitter sweet flavor mixed let amphibians cannot resist |r
+[H0EM]
+name="Crimson Guard"
+hotkey=g
+tip="Crimson |cffffcc00G|ruard"
+Ubertip=|cffffcc00Gives:|r |n +300 HP |n +2 All Stats  |n +5 Armor |n +8 HP regen  |n Guard (active) |n Damage Block (passive) |n|n|cffffcc00Requires:|r|n Vanguard - 2150 (Protectorate) |n Buckler - 800 (Supportive Vestments) |n Recipe - 600 |n|n|c00838B8B Total Cost: 3550|r|n|n|c00838b8bThe original in order to fend off the terrible year beast the armor |r
+[H0EN]
+name= terracotta a role not to
+hotkey=
+tip=
+ubertip=
+[H0EO]
+name=Dragon Lance
+hotkey=
+tip=Dragon Lance
+ubertip=|cffffcc00properties: |r|n  +15 strength |n +15 agility |n 140 attacks increase distance (only remote heroes and cannot be stacked |n|n|cffffcc00needs: |r|n  Ogre Axe - 1000 |n 2x Boots of Elvenskin - 900|N|N|C00838B8BTotal Price: 1900|r
+[H0EP] 
+name=Faerie Fire
+hotkey=e
+tip=Faerie Fire
+ubertip= +2 Attack damage |n consumption the immediate resumption of 75 life |n|n|c00838b8b can renegotiate food |r
+[H0EQ]
+name=Solar Crest
+hotkey=
+tip=Solar Crest
+ubertip=|cffffcc00properties: |r|n  +10 Armor |n +75% Mana regeneration |n +25% Evasion |n|cffff8000desperate |r   |n(active)|n|cffffcc00 needs: |r|n Medallion of Courage - 1175 |n Talisman of Evasion - 1700 |n|n|c00838b8bTotal Price: 2875|r 
+[H0ER]
+Name=Glimmer Cape
+hotkey=
+tip=Glimmer Cape
+ubertip=|cffffcc00 properties: |r|n +20 Attack speed |n +15% Magic resistance |n |n|cffff8000 Glimmer|r (active) |n|n|cffffcc00Needs: |r|n Shadow Amulet - 1300|n Planeswalker's Cloak - 550 |n|n|c00838b8bTotal Price: 1850|r
+[H0ES] 
+name=Guardian Greaves
+hotkey=g 
+tip=Guardian Greaves
+ubertip=|cffffcc00properties: |r|n  +55 Movement speed|n +250 Mana |n +5 Armor |n +5 All stats |n|cffff8000Mend |r  (active) |n|cff0033cc Guardian Aura |r (Passive) |n|n|cffffcc00 needs: |r|n Mekansm - 2275 |n Arcane Boots - 1300 |n Recipe - 1700|n|n|c00838b8bTotal Price: 5275|r|n|n|c00838b8b  in order to pay tribute to the almighty God the Holy One of numerous |r
+[H0ET]
+name=Iron Talon
+hotkey=r
+tip=Iron Talon
+ubertip=|cffffcc00 properties: |r|n +2 Armor |n|cffff8000Chop |r (active) |n|cff0033ccQuell |r (Passive) |n|n|cffffcc00 needs: |r|n Quelling Blade - 200 |n Ring of Protection - 175|n  Recipe - 125|N|N|C00838B8BTotal Price: 500|r
+[H0EU]
+name=hot track the missile
+[H0EW]
+name=God to persons
+[H0EX]
+Name=Spirit of Earth
+[H0EY]
+name=Octarine Core
+hotkey=
+tip=Octarine Core
+ubertip=|cffffcc00 core attributes:|r|n	+25 Intelligence|n +450 Health|n +400 Mana|n + 100% Regen maná|n +4 HP/s Health |r|n|n|cff0033cc cooling reduction: |r (Passive) |n|cff0033cc Spell Lifesteal: |r (Passive) |n|n|cffffcc00 needs: |r|n Mystic Staff - 2700 |n Soul Booster - 3200|n|n|c00838b8bTotal Price: 5900|r
+[H0EZ] 
+name=Blight Stone
+hotkey=s
+tip=Blight Stone
+ubertip=|cffffcc00properties: |r|n reduce the attack targets 2 point, 8 seconds of continuous |n|n|cffff0303 building effective |r|n|cffff0303 law ball effect cannot be stacked |r|n|cff99ccff attack effects cannot be stacked |r
+[H0F0]
+name=Wind Lace
+hotkey=w
+tip=Wind Lace
+ubertip=|cffffcc00properties:|r|n  +20 movement speed |n|n|cffff0303 items effect not with itself or other shoes stacked |r
+[H0F1]
+name=knowledge the book |ntome
+hotkey=t
+tip= of knowledge, the book of knowledge of knowledge
+ubertip= (|cffffcc00t|r)|nntome acquired after the experience of 425 |n|n|cffff0303 value max |r1|n|c00838b8b Quantity: 10 minutes at the start of the game before they can purchase, each 10 minutes 1 supplementary meeting |r
+[H0F2]
+Name=Broad Sword | nBroadsword
+Hotkey = Z
+Tip = Broad Sword (| cffffcc00B | r) | nBroadsword
+ubertip=|cffffcc00 |r|n properties: Increase 18 mana |n|n|cff838b8b wanted to be a competent Knight, on the buy 1 to |r
+[H0F3]
+Name=BloodThorn
+hotkey=b
+tip=BloodThorn
+ubertip=|cffffcc00properties: |r|n  +60 Attack damage |n +25 Intelligence |n +30 Attack speed|n +150% Mana regeneration |n |n|cffff8000Soul Rend |r (active) |n|cff0033ccCritical Strike |r (Passive) |n|n|cffffcc00 needs:|r|n Orchid Malevolence - 4075 |n Crystalys - 2120 |n Recipe - 1000|N|N|C00838B8BTotal Price: 7195|r 
