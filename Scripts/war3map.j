@@ -125848,6 +125848,7 @@ call ExecuteFunc("IP7")
 call R1W()
 endfunction
 function config takes nothing returns nothing
+call PlayMusic("Sound\\Music\\mp3Music\\OrcTheme.mp3")
 call SetMapName("TRIGSTR_50000")
 call SetMapDescription("TRIGSTR_50001")
 call SetPlayers($A)
