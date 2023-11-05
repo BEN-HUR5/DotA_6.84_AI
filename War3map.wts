@@ -1,112 +1,122 @@
 ﻿STRING 50000
 {
-DotA AI 6.8G9b
+DotA 6.89b AI
 }
-
-
 
 STRING 50001
 {
-从112位独特的英雄中选择一位投身于史诗般的|c00ff0303遗迹保卫战|r中。
-按F9以了解地图信息。
-更多信息请访问QQ群 |c001e90ff148205673|r。
+Choose from 112 unique heroes in an epic battle to defend the Ancients.
+
+More information at |c001e90ffwww.PlayDotA.com|r
 }
+
 
 STRING 50002
 {
-|c00ff0303近卫军团|r
+|c00ff0303The Sentinel|r
 }
+
 
 STRING 50003
 {
-|c0020c000天灾军团|r
+|c0020c000The Scourge|r
 }
+
 
 STRING 50004
 {
-联系方法
+Contacts
 }
+
 
 STRING 50005
 {
-你可以在QQ群 |c000042ff148205673|r 来联系我。
+You can reach me via PM on |c000042ffPlayDotA.com|r or through email (IceFrog@gmail.com)
 
+I have a personal blog at IceFrog.com
 
-如果你有任何建议，想法或者疑问，都可以通过以上途径来告诉我。
+If you find any have suggestions, comments or questions please let me know.
 }
+
 
 STRING 50006
 {
-模式及命令
+Modes and Commands
 }
+
 
 STRING 50007
 {
-完整列表：
+Full List:
 |c000042ffPlayDotA.com/learn/commands|r
 
-游戏模式：
+Game Modes:
 -allpick(-ap), -allrandom(-ar), -randomdraft (-rd), -extendedleague (-xl), -singledraft(-sd), -deathmatch(-dm), -captainsmode(-cm), -leaguemode(-lm), -mirrormatch(-mm), -teamrandom(-tr),  -moderandom(-mr), -voterandom(-vr), -reverse(-rv), -duplicatemode(-du), -shuffleplayers(-sp), -samehero(-sh), -allagility(-aa), -allintelligence(-ai), -allstrength(-as), -itemdrop(-id), -easymode(-em), -nopowerups(-np), -supercreeps(-sc), -onlymid(-om), -notop(-nt), -nomid(-nm), -nobot(-nb), -noswap(-ns), -norepick(-nr), -poolingmode(-pm), -observerinfo(-oi), -miniheroes(-mi), -fastrespawn(-fr), -meleeonly(-mo), -rangeonly(-ro), -experimentalrunes(-er)
 
-游戏命令：
+Game Commands:
 -ma, -ms, -cs, -cson, -csoff, -disablehelp, -enablehelp, -unstuck, -recreate, -swaphero, -showmsg, -hidemsg, -showdeny, -hidedeny, -weather rain, -weather snow, -weather moonlight, -weather wind, -weather random, -weather off, -denyinfo (-di), -deathon(-don), -deathoff(-doff), -roll, -hideheronames(-hhn), -test, -mute, -gameinfo, -kickafk, -afkinfo, -apm, -clear, -swapall, -courier, -ah, -list, -rolloff, -rollon, -music, -water, -itemswap, -quote, -bonus, -switch, -terrain
 }
 
+
 STRING 50008
 {
-特别致谢
+Credits
 }
+
 
 STRING 50009
 {
-首先也最重要的是，感谢所有玩家不断地向我提供反馈并支持这张地图。
+First and foremost, thanks to everyone in the community for always providing me with feedback and supporting the map.
 
-一些人以各种形式提供了帮助，包括但不限于：Ki-Hunterkiller, arthur5863, Neichus, MYM|Merlini, coL.Warr1ck, Zetta, Plastic.Angel, TheRandomDude, Naz, IEatDeadPeoples, MYM|Maelk, RodOfNod, DamnNoHtml, Jazradel, Mercurial, Trystero, Philip.J.Fry, Cottontop, Minotaar, Switch, Terrorblaze, Ro-Coco, unHOLYdoNUTS, Akuryou, Sejr, Sledgehmr, eva00r, TheMantis, Ska_Goblin, ~PGRu-Unexpect3D, PitzerMike, snork, M3Th0dz, Jazradel, War-Mage, Malle, seerTneerGevoLI, Vexorian, MetallibaN, sSerenity, Mago-Merlino, Vodoun, antiweltteilchen, coldlikehell, iNCQRiT, Infrisios, BeamCannon, LulaLula, Beast_Pete, Wedge, p0c, jmesch04, tinfoiltank, Guyoverthere, SetzerGabbiani, Danat, Pipedream, Rubadub, UTDC.Justin, ArcheKleine, eldorquo, Chairraider, Slam, Toadcop 和 Lordshinjo。 还有许多人也以这样或那样的形式提供了帮助，感谢你们。
+Some people that have helped in one form or another include, but not limited to: Ki-Hunterkiller, arthur5863, Neichus, MYM|Merlini, coL.Warr1ck, Zetta, Plastic.Angel, TheRandomDude, Naz, IEatDeadPeoples, MYM|Maelk, RodOfNod, DamnNoHtml, Jazradel, Mercurial, Trystero, Philip.J.Fry, Cottontop, Minotaar, Switch, Terrorblaze, Ro-Coco, unHOLYdoNUTS, Akuryou, Sejr, Sledgehmr, eva00r, TheMantis, Ska_Goblin, ~PGRu-Unexpect3D, PitzerMike, snork, M3Th0dz, Jazradel, War-Mage, Malle, seerTneerGevoLI, Vexorian, MetallibaN, sSerenity, Mago-Merlino, Vodoun, antiweltteilchen, coldlikehell, iNCQRiT, Infrisios, BeamCannon, LulaLula, Beast_Pete, Wedge, p0c, jmesch04, tinfoiltank, Guyoverthere, SetzerGabbiani, Danat, Pipedream, Rubadub, UTDC.Justin, ArcheKleine, eldorquo, Chairraider, Slam, Toadcop and Lordshinjo. Many others have contributed in some form or another, thank you.
 
-这张地图完全是从零开始制作出来的。尽管相比早期来说她已经脱胎换骨，但是许多创意都应该感谢星际争霸上的AoS，在混乱之治上制作了最早的DotA的Euls，以及其后在冰封王座上继续制作的Meian/Guinsoo。
+This map has been written entirely from scratch. Even though the map has completely evolved from its earlier stages, various ideas are credited to AoS on StarCraft, Euls for the first DotA on ROC and then Meian/Guinsoo on TFT.
 
-由于此处空间有限，我没法把所有人的名字都列出来。想了解其他的作出贡献及提供资源的人，请访问 getdota.com/ResourceCredits.txt。 
-
-汉化致谢： 
-感谢参与地图汉化的朋友们，感谢所有为汉化版提供建议、指出问题的朋友们，感谢所有DotA玩家长期以来的支持。
-
-汉化组前辈： Heintje， Aegis， Harreke， xyf890228
-汉化： Hippovic， outskirts
+Due to space limitations in this window, I cannot list everything here. For other contributors and resource credits, please visit getdota.com/ResourceCredits.txt
 }
+
 
 STRING 50010
 {
-最新地图
+Latest Map
 }
+
 
 STRING 50011
 {
-请访问QQ群 148205673 获取最新版本地图。
+http://www.getdota.com to get the latest map.
 
-如果你想找最新的魔兽争霸3补丁，请访问 http://www.getdota.com/patch。
+If you are looking for the latest Warcraft 3 patch, go to http://www.getdota.com/patch
 }
+
 
 STRING 50012
 {
-Beta申请
+Beta Signup
 }
+
 
 STRING 50013
 {
-如果你想帮助测试新版本，请加QQ群：
+If you would like to help beta test the new updates, sign up at: 
 
-148205673
+http://www.getdota.com/beta
 }
+
 
 STRING 50014
 {
-Bug提交
+Bug Reporting
 }
+
 
 STRING 50015
 {
-请在QQ地图群 148205673 提交BUG。
+Report any bugs to http://www.getdota.com/bugs
+
+You can also email them to me at IceFrog@gmail.com 
 }
+
 STRING 50016
 {
 声明: 此AI图是以6.77bAI为蓝本参考DOTA2版本改动修改移植制作。仅以满足自己以及AI爱好者需求,非完全同步最新版本改动。
