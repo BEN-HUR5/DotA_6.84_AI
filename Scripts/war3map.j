@@ -96372,14 +96372,18 @@ endif
 elseif GetTriggerEventId()!=EVENT_PLAYER_UNIT_SPELL_EFFECT then
 call DestroyEffect(AddSpecialEffectTarget("war3mapImported\\BattleCryCaster.mdx",WX7,"overhead"))
 call XF7(WX7,1093687119)
-call SetUnitAbilityLevel(WX7,1093687119,GetUnitAbilityLevel(WX7,1093752648))
+if GetUnitAbilityLevel(WX7,1093817177)>0 then
+call SetUnitAbilityLevel(WX7,1093687119,GetUnitAbilityLevel(WX7,1093817177))
 call UnitMakeAbilityPermanent(WX7,true,1093687119)
 call SetPlayerAbilityAvailable(GetOwningPlayer(WX7),1093687119,false)
-if GetUnitAbilityLevel(WX7,1093817177)>0 then
 call XF7(WX7,1093817176)
 call SetUnitAbilityLevel(WX7,1093817176,GetUnitAbilityLevel(WX7,1093817177))
 call UnitMakeAbilityPermanent(WX7,true,1093817176)
 call SetPlayerAbilityAvailable(GetOwningPlayer(WX7),1093817176,false)
+else
+call SetUnitAbilityLevel(WX7,1093687119,GetUnitAbilityLevel(WX7,1093752648))
+call UnitMakeAbilityPermanent(WX7,true,1093687119)
+call SetPlayerAbilityAvailable(GetOwningPlayer(WX7),1093687119,false)
 endif
 endif
 set t=null
