@@ -75545,7 +75545,8 @@ C;X28;K"locustswarm"
 C;Y3960;X1;K"A2Q5"
 C;X2;K"Aasl"
 C;X11;K1
-C;X15;K"self"
+C;X15;K"air,ground,player,hero,self,vuln,invu"
+C;X21;K99999
 C;X24;K0.6
 C;X33;K"B0GQ"
 C;Y3961;X1;K"A2Q6"
